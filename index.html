@@ -1,0 +1,103 @@
+<!doctype html>
+<html lang="en">
+  <head>
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1" />
+    <title>Rocketbox Studio</title>
+  </head>
+  <body>
+    <div class="app">
+      <header>
+        <div class="brand">
+          <strong>Rocketbox Studio</strong>
+          <span id="library-count">115 characters</span>
+        </div>
+        <div class="header-actions">
+          <span id="stage-count">Stage empty</span>
+          <button id="import-model" type="button" title="Import GLB, VRM, GLTF, OBJ, FBX, DAE, STL, or PLY">Import</button>
+          <input id="import-file" type="file" hidden multiple accept=".glb,.vrm,.gltf,.obj,.mtl,.fbx,.dae,.stl,.ply,.bin,.png,.jpg,.jpeg,.webp,.tga" />
+          <button id="export-selected" type="button" disabled>Export selected</button>
+          <button id="export-stage" type="button" disabled>Export stage</button>
+        </div>
+      </header>
+      <div class="workspace">
+        <aside class="library">
+          <input id="library-search" type="search" placeholder="Search characters" aria-label="Search characters" />
+          <div class="chips" id="category-chips"></div>
+          <div id="library-list" class="cards"></div>
+        </aside>
+        <main class="stage" id="stage">
+          <div class="stage-view">
+            <div id="viewport"></div>
+            <p id="stage-hint">Drag a character or a model file onto the stage, or double-click a character to place it.</p>
+            <p id="stage-chip" hidden></p>
+            <aside id="export-panel" class="export-panel" aria-live="polite">
+              <h2>Export</h2>
+              <dl id="export-facts"></dl>
+            </aside>
+          </div>
+          <form class="stage-chat" id="stage-chat">
+            <label class="sr" for="chat-input">Line for the selected character to say</label>
+            <textarea id="chat-input" rows="5" placeholder="What should the selected character say?"></textarea>
+            <button type="submit" id="chat-send" disabled>Send</button>
+          </form>
+        </main>
+        <aside class="inspector">
+          <h2>Character</h2>
+          <p id="selection-meta">Select a character on the stage.</p>
+          <div class="mode-row">
+            <button type="button" data-mode="translate" aria-pressed="true">Move</button>
+            <button type="button" data-mode="rotate" aria-pressed="false">Rotate</button>
+            <button type="button" data-mode="scale" aria-pressed="false">Scale</button>
+            <button type="button" id="fit-face">Fit face</button>
+            <button type="button" id="fit-body">Fit body</button>
+            <button type="button" id="stop-clip">Stop</button>
+            <button type="button" id="remove-actor">Remove</button>
+          </div>
+          <p class="keys">G move, R rotate, S scale, F fit body, Shift+F fit face, Delete removes.</p>
+          <details class="panel" open>
+            <summary>Meshes</summary>
+            <div class="panel-body">
+              <input id="mesh-search" type="search" placeholder="Search meshes" aria-label="Search meshes" />
+              <p id="mesh-count"></p>
+              <div id="mesh-list"></div>
+              <p class="note">Uncheck a mesh to hide it. Hidden meshes are left out of the export.</p>
+            </div>
+          </details>
+          <details class="panel" open>
+            <summary>Animation</summary>
+            <div class="panel-body">
+              <div class="mode-row">
+                <button type="button" id="copy-animations" disabled>Copy animations</button>
+                <button type="button" id="paste-animations" disabled>Paste animations</button>
+              </div>
+              <div class="fields" id="anim-filters">
+                <label>Motion
+                  <select id="motion" aria-label="Motion mode">
+                    <option value="static">In place</option>
+                    <option value="xy">Ground path</option>
+                    <option value="xyz">Full path</option>
+                  </select>
+                </label>
+                <label>Group
+                  <select id="anim-group" aria-label="Animation group"></select>
+                </label>
+              </div>
+              <input id="anim-search" type="search" placeholder="Search animations" aria-label="Search animations" />
+              <p id="anim-count"></p>
+              <label class="select-all">
+                <input id="anim-select-all" type="checkbox" disabled />
+                Select all
+              </label>
+              <div id="anim-list"></div>
+              <div id="file-anims" hidden></div>
+              <p class="note">Check a folder to include every clip inside it. Checked clips are written into the GLB. If none are checked, the playing clip is included. Textures are resized to 1024.</p>
+            </div>
+          </details>
+        </aside>
+      </div>
+      <footer id="status" role="status">Models stream from microsoft/Microsoft-Rocketbox (MIT).</footer>
+    </div>
+    <script type="module" src="/src/main.ts"></script>
+  </body>
+</html>

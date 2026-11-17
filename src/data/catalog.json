@@ -1,0 +1,4828 @@
+{
+  "source": "microsoft/Microsoft-Rocketbox",
+  "characters": [
+    {
+      "id": "Adults/Female_Adult_01",
+      "name": "Female Adult 01",
+      "folder": "Female_Adult_01",
+      "category": "Adults",
+      "gender": "female",
+      "textures": [
+        "f001_body_color.tga",
+        "f001_body_normal.tga",
+        "f001_body_specular.tga",
+        "f001_head_color.tga",
+        "f001_head_normal.tga",
+        "f001_head_normal_wrinkle.tga",
+        "f001_head_specular.tga",
+        "f001_opacity_color.tga"
+      ]
+    },
+    {
+      "id": "Adults/Female_Adult_02",
+      "name": "Female Adult 02",
+      "folder": "Female_Adult_02",
+      "category": "Adults",
+      "gender": "female",
+      "textures": [
+        "f002_body_color.tga",
+        "f002_body_normal.tga",
+        "f002_body_specular.tga",
+        "f002_head_color.tga",
+        "f002_head_normal.tga",
+        "f002_head_specular.tga",
+        "f002_opacity_color.tga"
+      ]
+    },
+    {
+      "id": "Adults/Female_Adult_03",
+      "name": "Female Adult 03",
+      "folder": "Female_Adult_03",
+      "category": "Adults",
+      "gender": "female",
+      "textures": [
+        "f003_body_color.tga",
+        "f003_body_normal.tga",
+        "f003_body_specular.tga",
+        "f003_head_color.tga",
+        "f003_head_normal.tga",
+        "f003_head_specular.tga",
+        "f003_opacity_color.tga"
+      ]
+    },
+    {
+      "id": "Adults/Female_Adult_04",
+      "name": "Female Adult 04",
+      "folder": "Female_Adult_04",
+      "category": "Adults",
+      "gender": "female",
+      "textures": [
+        "f004_body_color.tga",
+        "f004_body_normal.tga",
+        "f004_body_specular.tga",
+        "f004_head_color.tga",
+        "f004_head_normal.tga",
+        "f004_head_specular.tga",
+        "f004_opacity_color.tga"
+      ]
+    },
+    {
+      "id": "Adults/Female_Adult_05",
+      "name": "Female Adult 05",
+      "folder": "Female_Adult_05",
+      "category": "Adults",
+      "gender": "female",
+      "textures": [
+        "f005_body_color.tga",
+        "f005_body_normal.tga",
+        "f005_body_specular.tga",
+        "f005_head_color.tga",
+        "f005_head_normal.tga",
+        "f005_head_specular.tga",
+        "f005_opacity_color.tga"
+      ]
+    },
+    {
+      "id": "Adults/Female_Adult_06",
+      "name": "Female Adult 06",
+      "folder": "Female_Adult_06",
+      "category": "Adults",
+      "gender": "female",
+      "textures": [
+        "f202_body_color.tga",
+        "f202_body_normal.tga",
+        "f202_body_specular.tga",
+        "f202_head_color.tga",
+        "f202_head_normal.tga",
+        "f202_head_specular.tga",
+        "f202_opacity_color.tga"
+      ]
+    },
+    {
+      "id": "Adults/Female_Adult_07",
+      "name": "Female Adult 07",
+      "folder": "Female_Adult_07",
+      "category": "Adults",
+      "gender": "female",
+      "textures": [
+        "f007_body_color.tga",
+        "f007_body_normal.tga",
+        "f007_body_specular.tga",
+        "f007_head_color.tga",
+        "f007_head_normal.tga",
+        "f007_head_specular.tga",
+        "f007_opacity_color.tga"
+      ]
+    },
+    {
+      "id": "Adults/Female_Adult_08",
+      "name": "Female Adult 08",
+      "folder": "Female_Adult_08",
+      "category": "Adults",
+      "gender": "female",
+      "textures": [
+        "f008_body_color.tga",
+        "f008_body_normal.tga",
+        "f008_body_specular.tga",
+        "f008_head_color.tga",
+        "f008_head_normal.tga",
+        "f008_head_specular.tga",
+        "f008_opacity_color.tga"
+      ]
+    },
+    {
+      "id": "Adults/Female_Adult_09",
+      "name": "Female Adult 09",
+      "folder": "Female_Adult_09",
+      "category": "Adults",
+      "gender": "female",
+      "textures": [
+        "f009_body_color.tga",
+        "f009_body_normal.tga",
+        "f009_body_specular.tga",
+        "f009_head_color.tga",
+        "f009_head_normal.tga",
+        "f009_head_specular.tga",
+        "f009_opacity_color.tga"
+      ]
+    },
+    {
+      "id": "Adults/Female_Adult_10",
+      "name": "Female Adult 10",
+      "folder": "Female_Adult_10",
+      "category": "Adults",
+      "gender": "female",
+      "textures": [
+        "f201_body_color.tga",
+        "f201_body_normal.tga",
+        "f201_body_specular.tga",
+        "f201_head_color.tga",
+        "f201_head_normal.tga",
+        "f201_head_specular.tga",
+        "f201_opacity_color.tga"
+      ]
+    },
+    {
+      "id": "Adults/Female_Adult_11",
+      "name": "Female Adult 11",
+      "folder": "Female_Adult_11",
+      "category": "Adults",
+      "gender": "female",
+      "textures": [
+        "f011_body_color.tga",
+        "f011_body_normal.tga",
+        "f011_body_specular.tga",
+        "f011_head_color.tga",
+        "f011_head_normal.tga",
+        "f011_head_specular.tga",
+        "f011_opacity_color.tga"
+      ]
+    },
+    {
+      "id": "Adults/Female_Adult_12",
+      "name": "Female Adult 12",
+      "folder": "Female_Adult_12",
+      "category": "Adults",
+      "gender": "female",
+      "textures": [
+        "f012_body_color.tga",
+        "f012_body_normal.tga",
+        "f012_body_specular.tga",
+        "f012_head_color.tga",
+        "f012_head_normal.tga",
+        "f012_head_specular.tga",
+        "f012_opacity_color.tga"
+      ]
+    },
+    {
+      "id": "Adults/Female_Adult_13",
+      "name": "Female Adult 13",
+      "folder": "Female_Adult_13",
+      "category": "Adults",
+      "gender": "female",
+      "textures": [
+        "f019_body_color.tga",
+        "f019_body_normal.tga",
+        "f019_body_specular.tga",
+        "f019_head_color.tga",
+        "f019_head_normal.tga",
+        "f019_head_specular.tga",
+        "f019_opacity_color.tga"
+      ]
+    },
+    {
+      "id": "Adults/Female_Adult_14",
+      "name": "Female Adult 14",
+      "folder": "Female_Adult_14",
+      "category": "Adults",
+      "gender": "female",
+      "textures": [
+        "f017_body_color.tga",
+        "f017_body_normal.tga",
+        "f017_body_specular.tga",
+        "f017_head_color.tga",
+        "f017_head_normal.tga",
+        "f017_head_specular.tga",
+        "f017_opacity_color.tga"
+      ]
+    },
+    {
+      "id": "Adults/Female_Adult_15",
+      "name": "Female Adult 15",
+      "folder": "Female_Adult_15",
+      "category": "Adults",
+      "gender": "female",
+      "textures": [
+        "f018_body_color.tga",
+        "f018_body_normal.tga",
+        "f018_body_specular.tga",
+        "f018_head_color.tga",
+        "f018_head_normal.tga",
+        "f018_head_specular.tga",
+        "f018_opacity_color.tga"
+      ]
+    },
+    {
+      "id": "Adults/Female_Adult_16",
+      "name": "Female Adult 16",
+      "folder": "Female_Adult_16",
+      "category": "Adults",
+      "gender": "female",
+      "textures": [
+        "f204_color.tga",
+        "f204_normal.tga",
+        "f204_specular.tga"
+      ]
+    },
+    {
+      "id": "Adults/Female_Adult_17",
+      "name": "Female Adult 17",
+      "folder": "Female_Adult_17",
+      "category": "Adults",
+      "gender": "female",
+      "textures": [
+        "f006_body_color.tga",
+        "f006_body_normal.tga",
+        "f006_body_specular.tga",
+        "f006_head_color.tga",
+        "f006_head_normal.tga",
+        "f006_head_specular.tga",
+        "f006_opacity_color.tga"
+      ]
+    },
+    {
+      "id": "Adults/Female_Party_01",
+      "name": "Female Party 01",
+      "folder": "Female_Party_01",
+      "category": "Adults",
+      "gender": "female",
+      "textures": [
+        "f010_body_color.tga",
+        "f010_body_normal.tga",
+        "f010_body_specular.tga",
+        "f010_head_color.tga",
+        "f010_head_normal.tga",
+        "f010_head_specular.tga",
+        "f010_opacity_color.tga"
+      ]
+    },
+    {
+      "id": "Adults/Female_Party_02",
+      "name": "Female Party 02",
+      "folder": "Female_Party_02",
+      "category": "Adults",
+      "gender": "female",
+      "textures": [
+        "f022_body_color.tga",
+        "f022_body_normal.tga",
+        "f022_body_specular.tga",
+        "f022_head_color.tga",
+        "f022_head_normal.tga",
+        "f022_head_specular.tga",
+        "f022_opacity_color.tga"
+      ]
+    },
+    {
+      "id": "Adults/Male_Adult_01",
+      "name": "Male Adult 01",
+      "folder": "Male_Adult_01",
+      "category": "Adults",
+      "gender": "male",
+      "textures": [
+        "m002_body_color.tga",
+        "m002_body_normal.tga",
+        "m002_body_specular.tga",
+        "m002_head_color.tga",
+        "m002_head_normal.tga",
+        "m002_head_specular.tga",
+        "m002_opacity_color.tga"
+      ]
+    },
+    {
+      "id": "Adults/Male_Adult_02",
+      "name": "Male Adult 02",
+      "folder": "Male_Adult_02",
+      "category": "Adults",
+      "gender": "male",
+      "textures": [
+        "m003_body_color.tga",
+        "m003_body_normal.tga",
+        "m003_body_specular.tga",
+        "m003_head_color.tga",
+        "m003_head_normal - wr.tga",
+        "m003_head_normal.tga",
+        "m003_head_specular.tga",
+        "m003_opacity_color.tga"
+      ]
+    },
+    {
+      "id": "Adults/Male_Adult_03",
+      "name": "Male Adult 03",
+      "folder": "Male_Adult_03",
+      "category": "Adults",
+      "gender": "male",
+      "textures": [
+        "m004_body_color.tga",
+        "m004_body_normal.tga",
+        "m004_body_specular.tga",
+        "m004_head_color.tga",
+        "m004_head_normal.tga",
+        "m004_head_specular.tga",
+        "m004_opacity_color.tga"
+      ]
+    },
+    {
+      "id": "Adults/Male_Adult_04",
+      "name": "Male Adult 04",
+      "folder": "Male_Adult_04",
+      "category": "Adults",
+      "gender": "male",
+      "textures": [
+        "m006_body_color.tga",
+        "m006_body_normal.tga",
+        "m006_body_specular.tga",
+        "m006_head_color.tga",
+        "m006_head_normal.tga",
+        "m006_head_specular.tga",
+        "m006_opacity_color.tga"
+      ]
+    },
+    {
+      "id": "Adults/Male_Adult_05",
+      "name": "Male Adult 05",
+      "folder": "Male_Adult_05",
+      "category": "Adults",
+      "gender": "male",
+      "textures": [
+        "m009_body_color.tga",
+        "m009_body_normal.tga",
+        "m009_body_specular.tga",
+        "m009_head_color.tga",
+        "m009_head_normal.tga",
+        "m009_head_specular.tga",
+        "m009_opacity_color.tga"
+      ]
+    },
+    {
+      "id": "Adults/Male_Adult_06",
+      "name": "Male Adult 06",
+      "folder": "Male_Adult_06",
+      "category": "Adults",
+      "gender": "male",
+      "textures": [
+        "m011_body_color.tga",
+        "m011_body_normal.tga",
+        "m011_body_specular.tga",
+        "m011_head_color.tga",
+        "m011_head_normal.tga",
+        "m011_head_specular.tga",
+        "m011_opacity_color.tga"
+      ]
+    },
+    {
+      "id": "Adults/Male_Adult_07",
+      "name": "Male Adult 07",
+      "folder": "Male_Adult_07",
+      "category": "Adults",
+      "gender": "male",
+      "textures": [
+        "m013_body_color.tga",
+        "m013_body_normal.tga",
+        "m013_body_specular.tga",
+        "m013_head_color.tga",
+        "m013_head_normal.tga",
+        "m013_head_specular.tga",
+        "m013_opacity_color.tga"
+      ]
+    },
+    {
+      "id": "Adults/Male_Adult_08",
+      "name": "Male Adult 08",
+      "folder": "Male_Adult_08",
+      "category": "Adults",
+      "gender": "male",
+      "textures": [
+        "m014_body_color.tga",
+        "m014_body_normal.tga",
+        "m014_body_specular.tga",
+        "m014_head_color.tga",
+        "m014_head_normal.tga",
+        "m014_head_specular.tga",
+        "m014_opacity_color.tga"
+      ]
+    },
+    {
+      "id": "Adults/Male_Adult_09",
+      "name": "Male Adult 09",
+      "folder": "Male_Adult_09",
+      "category": "Adults",
+      "gender": "male",
+      "textures": [
+        "m017_body_color.tga",
+        "m017_body_normal.tga",
+        "m017_body_specular.tga",
+        "m017_head_color.tga",
+        "m017_head_normal.tga",
+        "m017_head_specular.tga",
+        "m017_opacity_color.tga"
+      ]
+    },
+    {
+      "id": "Adults/Male_Adult_10",
+      "name": "Male Adult 10",
+      "folder": "Male_Adult_10",
+      "category": "Adults",
+      "gender": "male",
+      "textures": [
+        "m024_body_color.tga",
+        "m024_body_normal.tga",
+        "m024_body_specular.tga",
+        "m024_head_color.tga",
+        "m024_head_normal.tga",
+        "m024_head_specular.tga",
+        "m024_opacity_color.tga"
+      ]
+    },
+    {
+      "id": "Adults/Male_Adult_11",
+      "name": "Male Adult 11",
+      "folder": "Male_Adult_11",
+      "category": "Adults",
+      "gender": "male",
+      "textures": [
+        "m001_body_color.tga",
+        "m001_body_normal.tga",
+        "m001_body_specular.tga",
+        "m001_head_color.tga",
+        "m001_head_normal.tga",
+        "m001_head_specular.tga"
+      ]
+    },
+    {
+      "id": "Adults/Male_Adult_12",
+      "name": "Male Adult 12",
+      "folder": "Male_Adult_12",
+      "category": "Adults",
+      "gender": "male",
+      "textures": [
+        "m007_body_color.tga",
+        "m007_body_normal.tga",
+        "m007_body_specular.tga",
+        "m007_head_color.tga",
+        "m007_head_normal.tga",
+        "m007_head_specular.tga"
+      ]
+    },
+    {
+      "id": "Adults/Male_Adult_13",
+      "name": "Male Adult 13",
+      "folder": "Male_Adult_13",
+      "category": "Adults",
+      "gender": "male",
+      "textures": [
+        "m010_body_color.tga",
+        "m010_body_normal.tga",
+        "m010_body_specular.tga",
+        "m010_head_color.tga",
+        "m010_head_normal.tga",
+        "m010_head_specular.tga"
+      ]
+    },
+    {
+      "id": "Adults/Male_Adult_14",
+      "name": "Male Adult 14",
+      "folder": "Male_Adult_14",
+      "category": "Adults",
+      "gender": "male",
+      "textures": [
+        "m012_body_color.tga",
+        "m012_body_normal.tga",
+        "m012_body_specular.tga",
+        "m012_head_color.tga",
+        "m012_head_normal.tga",
+        "m012_head_specular.tga"
+      ]
+    },
+    {
+      "id": "Adults/Male_Adult_15",
+      "name": "Male Adult 15",
+      "folder": "Male_Adult_15",
+      "category": "Adults",
+      "gender": "male",
+      "textures": [
+        "m204_body_color.tga",
+        "m204_body_normal.tga",
+        "m204_body_specular.tga",
+        "m204_head_color.tga",
+        "m204_head_normal.tga",
+        "m204_head_specular.tga"
+      ]
+    },
+    {
+      "id": "Adults/Male_Adult_16",
+      "name": "Male Adult 16",
+      "folder": "Male_Adult_16",
+      "category": "Adults",
+      "gender": "male",
+      "textures": [
+        "m019_body_color.tga",
+        "m019_body_normal.tga",
+        "m019_body_specular.tga",
+        "m019_head_color.tga",
+        "m019_head_normal.tga",
+        "m019_head_specular.tga"
+      ]
+    },
+    {
+      "id": "Adults/Male_Adult_17",
+      "name": "Male Adult 17",
+      "folder": "Male_Adult_17",
+      "category": "Adults",
+      "gender": "male",
+      "textures": [
+        "m022_body_color.tga",
+        "m022_body_normal.tga",
+        "m022_body_specular.tga",
+        "m022_head_color.tga",
+        "m022_head_normal.tga",
+        "m022_head_specular.tga"
+      ]
+    },
+    {
+      "id": "Adults/Male_Adult_18",
+      "name": "Male Adult 18",
+      "folder": "Male_Adult_18",
+      "category": "Adults",
+      "gender": "male",
+      "textures": [
+        "m023_body_color.tga",
+        "m023_body_normal.tga",
+        "m023_body_specular.tga",
+        "m023_head_color.tga",
+        "m023_head_normal.tga",
+        "m023_head_specular.tga"
+      ]
+    },
+    {
+      "id": "Adults/Male_Adult_19",
+      "name": "Male Adult 19",
+      "folder": "Male_Adult_19",
+      "category": "Adults",
+      "gender": "male",
+      "textures": [
+        "m250_body_color.tga",
+        "m250_body_normal.tga",
+        "m250_body_specular.tga",
+        "m250_head_color.tga",
+        "m250_head_normal.tga",
+        "m250_head_specular.tga",
+        "m250_keffiyeh_color.tga",
+        "m250_keffiyeh_normal.tga",
+        "m250_keffiyeh_specular.tga"
+      ]
+    },
+    {
+      "id": "Adults/Male_Adult_20",
+      "name": "Male Adult 20",
+      "folder": "Male_Adult_20",
+      "category": "Adults",
+      "gender": "male",
+      "textures": [
+        "m027_body_color.tga",
+        "m027_body_normal.tga",
+        "m027_body_specular.tga",
+        "m027_head_color.tga",
+        "m027_head_normal.tga",
+        "m027_head_specular.tga"
+      ]
+    },
+    {
+      "id": "Adults/Male_Adult_21",
+      "name": "Male Adult 21",
+      "folder": "Male_Adult_21",
+      "category": "Adults",
+      "gender": "male",
+      "textures": [
+        "m251_body_color.tga",
+        "m251_body_normal.tga",
+        "m251_body_specular.tga",
+        "m251_head_color.tga",
+        "m251_head_normal.tga",
+        "m251_head_specular.tga",
+        "m251_keffiyeh_color.tga",
+        "m251_keffiyeh_normal.tga",
+        "m251_keffiyeh_specular.tga"
+      ]
+    },
+    {
+      "id": "Children/Female_Child_01",
+      "name": "Female Child 01",
+      "folder": "Female_Child_01",
+      "category": "Children",
+      "gender": "female",
+      "textures": [
+        "cf001_body_color.tga",
+        "cf001_body_normal.tga",
+        "cf001_body_specular.tga",
+        "cf001_head_color.tga",
+        "cf001_head_normal.tga",
+        "cf001_head_specular.tga"
+      ]
+    },
+    {
+      "id": "Children/Female_Child_02",
+      "name": "Female Child 02",
+      "folder": "Female_Child_02",
+      "category": "Children",
+      "gender": "female",
+      "textures": [
+        "cf011_body_color.tga",
+        "cf011_body_normal.tga",
+        "cf011_body_specular.tga",
+        "cf011_head_color.tga",
+        "cf011_head_normal.tga",
+        "cf011_head_specular.tga"
+      ]
+    },
+    {
+      "id": "Children/Male_Child_01",
+      "name": "Male Child 01",
+      "folder": "Male_Child_01",
+      "category": "Children",
+      "gender": "male",
+      "textures": [
+        "cm001_body_color.tga",
+        "cm001_body_normal.tga",
+        "cm001_body_specular.tga",
+        "cm001_head_color.tga",
+        "cm001_head_normal.tga",
+        "cm001_head_specular.tga"
+      ]
+    },
+    {
+      "id": "Children/Male_Child_02",
+      "name": "Male Child 02",
+      "folder": "Male_Child_02",
+      "category": "Children",
+      "gender": "male",
+      "textures": [
+        "cm012_body_color.tga",
+        "cm012_body_normal.tga",
+        "cm012_body_specular.tga",
+        "cm012_head_color.tga",
+        "cm012_head_normal.tga",
+        "cm012_head_specular.tga"
+      ]
+    },
+    {
+      "id": "Professions/Business_Female_01",
+      "name": "Business Female 01",
+      "folder": "Business_Female_01",
+      "category": "Professions",
+      "gender": "female",
+      "textures": [
+        "f014_body_color.tga",
+        "f014_body_normal.tga",
+        "f014_body_specular.tga",
+        "f014_head_color.tga",
+        "f014_head_normal.tga",
+        "f014_head_specular.tga",
+        "f014_opacity_color.tga"
+      ]
+    },
+    {
+      "id": "Professions/Business_Female_02",
+      "name": "Business Female 02",
+      "folder": "Business_Female_02",
+      "category": "Professions",
+      "gender": "female",
+      "textures": [
+        "f015_body_color.tga",
+        "f015_body_normal.tga",
+        "f015_body_specular.tga",
+        "f015_glasses_normal.tga",
+        "f015_glasses_opacity_color.tga",
+        "f015_glasses_specular.tga",
+        "f015_head_color.tga",
+        "f015_head_normal.tga",
+        "f015_head_specular.tga",
+        "f015_opacity_color.tga"
+      ]
+    },
+    {
+      "id": "Professions/Business_Female_03",
+      "name": "Business Female 03",
+      "folder": "Business_Female_03",
+      "category": "Professions",
+      "gender": "female",
+      "textures": [
+        "f016_body_color.tga",
+        "f016_body_normal.tga",
+        "f016_body_specular.tga",
+        "f016_head_color.tga",
+        "f016_head_normal.tga",
+        "f016_head_specular.tga",
+        "f016_opacity_color.tga"
+      ]
+    },
+    {
+      "id": "Professions/Business_Female_04",
+      "name": "Business Female 04",
+      "folder": "Business_Female_04",
+      "category": "Professions",
+      "gender": "female",
+      "textures": [
+        "f020_body_color.tga",
+        "f020_body_normal.tga",
+        "f020_body_specular.tga",
+        "f020_head_color.tga",
+        "f020_head_normal.tga",
+        "f020_head_specular.tga",
+        "f020_opacity_color.tga"
+      ]
+    },
+    {
+      "id": "Professions/Business_Male_01",
+      "name": "Business Male 01",
+      "folder": "Business_Male_01",
+      "category": "Professions",
+      "gender": "male",
+      "textures": [
+        "m005_body_color.tga",
+        "m005_body_normal.tga",
+        "m005_body_specular.tga",
+        "m005_head_color.tga",
+        "m005_head_normal.tga",
+        "m005_head_specular.tga",
+        "m005_opacity_color.tga"
+      ]
+    },
+    {
+      "id": "Professions/Business_Male_02",
+      "name": "Business Male 02",
+      "folder": "Business_Male_02",
+      "category": "Professions",
+      "gender": "male",
+      "textures": [
+        "m008_body_color.tga",
+        "m008_body_normal.tga",
+        "m008_body_specular.tga",
+        "m008_head_color.tga",
+        "m008_head_normal.tga",
+        "m008_head_specular.tga",
+        "m008_opacity_color.tga"
+      ]
+    },
+    {
+      "id": "Professions/Business_Male_03",
+      "name": "Business Male 03",
+      "folder": "Business_Male_03",
+      "category": "Professions",
+      "gender": "male",
+      "textures": [
+        "m020_body_color.tga",
+        "m020_body_normal.tga",
+        "m020_body_specular.tga",
+        "m020_head_color.tga",
+        "m020_head_normal.tga",
+        "m020_head_specular.tga",
+        "m020_opacity_color.tga"
+      ]
+    },
+    {
+      "id": "Professions/Business_Male_04",
+      "name": "Business Male 04",
+      "folder": "Business_Male_04",
+      "category": "Professions",
+      "gender": "male",
+      "textures": [
+        "m015_body_color.tga",
+        "m015_body_normal.tga",
+        "m015_body_specular.tga",
+        "m015_head_color.tga",
+        "m015_head_normal.tga",
+        "m015_head_specular.tga"
+      ]
+    },
+    {
+      "id": "Professions/Business_Male_05",
+      "name": "Business Male 05",
+      "folder": "Business_Male_05",
+      "category": "Professions",
+      "gender": "male",
+      "textures": [
+        "m016_body_color.tga",
+        "m016_body_normal.tga",
+        "m016_body_specular.tga",
+        "m016_head_color.tga",
+        "m016_head_normal.tga",
+        "m016_head_specular.tga"
+      ]
+    },
+    {
+      "id": "Professions/Business_Male_06",
+      "name": "Business Male 06",
+      "folder": "Business_Male_06",
+      "category": "Professions",
+      "gender": "male",
+      "textures": [
+        "m025_body_color.tga",
+        "m025_body_normal.tga",
+        "m025_body_specular.tga",
+        "m025_head_color.tga",
+        "m025_head_normal.tga",
+        "m025_head_specular.tga"
+      ]
+    },
+    {
+      "id": "Professions/Business_Male_07",
+      "name": "Business Male 07",
+      "folder": "Business_Male_07",
+      "category": "Professions",
+      "gender": "male",
+      "textures": [
+        "m018_body_color.tga",
+        "m018_body_normal.tga",
+        "m018_body_specular.tga",
+        "m018_head_color.tga",
+        "m018_head_normal.tga",
+        "m018_head_specular.tga"
+      ]
+    },
+    {
+      "id": "Professions/Chef_Female_01",
+      "name": "Chef Female 01",
+      "folder": "Chef_Female_01",
+      "category": "Professions",
+      "gender": "female",
+      "textures": [
+        "f110_body_color.tga",
+        "f110_body_normal.tga",
+        "f110_body_specular.tga",
+        "f110_head_color_a.tga",
+        "f110_head_normal_a.tga",
+        "f110_head_specular_a.tga"
+      ]
+    },
+    {
+      "id": "Professions/Construction_Female_01",
+      "name": "Construction Female 01",
+      "folder": "Construction_Female_01",
+      "category": "Professions",
+      "gender": "female",
+      "textures": [
+        "f101_body_color.tga",
+        "f101_body_normal.tga",
+        "f101_body_specular.tga",
+        "f101_head_color.tga",
+        "f101_head_normal.tga",
+        "f101_head_specular.tga",
+        "f101_helmet_color.tga",
+        "f101_helmet_normal.tga",
+        "f101_helmet_specular.tga"
+      ]
+    },
+    {
+      "id": "Professions/Construction_Male_01",
+      "name": "Construction Male 01",
+      "folder": "Construction_Male_01",
+      "category": "Professions",
+      "gender": "male",
+      "textures": [
+        "m111_body_color.tga",
+        "m111_body_normal.tga",
+        "m111_body_specular.tga",
+        "m111_head_color.tga",
+        "m111_head_normal.tga",
+        "m111_head_specular.tga",
+        "m111_helmet_color.tga",
+        "m111_helmet_normal.tga",
+        "m111_helmet_specular.tga",
+        "m111_opacity_color.tga",
+        "m111_opacity_normal.tga",
+        "m111_opacity_specular.tga",
+        "m111_tools_color.tga",
+        "m111_tools_normal.tga",
+        "m111_tools_specular.tga"
+      ]
+    },
+    {
+      "id": "Professions/Construction_Male_02",
+      "name": "Construction Male 02",
+      "folder": "Construction_Male_02",
+      "category": "Professions",
+      "gender": "male",
+      "textures": [
+        "m101_body_color.tga",
+        "m101_body_normal.tga",
+        "m101_body_specular.tga",
+        "m101_head_color.tga",
+        "m101_head_normal.tga",
+        "m101_head_specular.tga",
+        "m101_helmet_color.tga",
+        "m101_helmet_normal.tga",
+        "m101_helmet_specular.tga"
+      ]
+    },
+    {
+      "id": "Professions/Construction_Male_03",
+      "name": "Construction Male 03",
+      "folder": "Construction_Male_03",
+      "category": "Professions",
+      "gender": "male",
+      "textures": [
+        "m102_body_color.tga",
+        "m102_body_normal.tga",
+        "m102_body_specular.tga",
+        "m102_head_color.tga",
+        "m102_head_normal.tga",
+        "m102_head_specular.tga",
+        "m102_helmet_color.tga",
+        "m102_helmet_normal.tga",
+        "m102_helmet_specular.tga",
+        "m102_tools_color.tga",
+        "m102_tools_normal.tga",
+        "m102_tools_specular.tga"
+      ]
+    },
+    {
+      "id": "Professions/Construction_Male_04",
+      "name": "Construction Male 04",
+      "folder": "Construction_Male_04",
+      "category": "Professions",
+      "gender": "male",
+      "textures": [
+        "m103_body_color.tga",
+        "m103_body_normal.tga",
+        "m103_body_specular.tga",
+        "m103_head_color.tga",
+        "m103_head_normal.tga",
+        "m103_head_specular.tga",
+        "m103_helmet_color.tga",
+        "m103_helmet_normal.tga",
+        "m103_helmet_specular.tga",
+        "m103_tools_color.tga",
+        "m103_tools_normal.tga",
+        "m103_tools_specular.tga"
+      ]
+    },
+    {
+      "id": "Professions/Construction_Male_05",
+      "name": "Construction Male 05",
+      "folder": "Construction_Male_05",
+      "category": "Professions",
+      "gender": "male",
+      "textures": [
+        "m104_body_color.tga",
+        "m104_body_normal.tga",
+        "m104_body_specular.tga",
+        "m104_head_color.tga",
+        "m104_head_normal.tga",
+        "m104_head_specular.tga",
+        "m104_helmet_color.tga",
+        "m104_helmet_normal.tga",
+        "m104_helmet_specular.tga"
+      ]
+    },
+    {
+      "id": "Professions/Construction_Male_06",
+      "name": "Construction Male 06",
+      "folder": "Construction_Male_06",
+      "category": "Professions",
+      "gender": "male",
+      "textures": [
+        "m105_body_color.tga",
+        "m105_body_normal.tga",
+        "m105_body_specular.tga",
+        "m105_head_color.tga",
+        "m105_head_normal.tga",
+        "m105_head_specular.tga",
+        "m105_helmet_color.tga",
+        "m105_helmet_normal.tga",
+        "m105_helmet_specular.tga",
+        "m105_tools_color.tga",
+        "m105_tools_normal.tga",
+        "m105_tools_specular.tga"
+      ]
+    },
+    {
+      "id": "Professions/Construction_Male_07",
+      "name": "Construction Male 07",
+      "folder": "Construction_Male_07",
+      "category": "Professions",
+      "gender": "male",
+      "textures": [
+        "m107_body_color.tga",
+        "m107_body_normal.tga",
+        "m107_body_specular.tga",
+        "m107_head_color.tga",
+        "m107_head_normal.tga",
+        "m107_head_specular.tga",
+        "m107_helmet_color.tga",
+        "m107_helmet_normal.tga",
+        "m107_helmet_specular.tga"
+      ]
+    },
+    {
+      "id": "Professions/Construction_Male_08",
+      "name": "Construction Male 08",
+      "folder": "Construction_Male_08",
+      "category": "Professions",
+      "gender": "male",
+      "textures": [
+        "m108_body_color.tga",
+        "m108_body_normal.tga",
+        "m108_body_specular.tga",
+        "m108_head_color.tga",
+        "m108_head_normal.tga",
+        "m108_head_specular.tga",
+        "m108_helmet_color.tga",
+        "m108_helmet_normal.tga",
+        "m108_helmet_specular.tga"
+      ]
+    },
+    {
+      "id": "Professions/Delivery_Male_01",
+      "name": "Delivery Male 01",
+      "folder": "Delivery_Male_01",
+      "category": "Professions",
+      "gender": "male",
+      "textures": [
+        "m112_body_color.tga",
+        "m112_body_normal.tga",
+        "m112_body_specular.tga",
+        "m112_head_color.tga",
+        "m112_head_normal.tga",
+        "m112_head_specular.tga"
+      ]
+    },
+    {
+      "id": "Professions/Fire_Female_01",
+      "name": "Fire Female 01",
+      "folder": "Fire_Female_01",
+      "category": "Professions",
+      "gender": "female",
+      "textures": [
+        "m131_body_color.tga",
+        "m131_body_normal.tga",
+        "m131_body_specular.tga",
+        "m131_flashlight_color.tga",
+        "m131_flashlight_normal.tga",
+        "m131_flashlight_specular.tga",
+        "m131_head_color.tga",
+        "m131_head_normal.tga",
+        "m131_head_specular.tga",
+        "m131_helmet_color.tga",
+        "m131_helmet_normal.tga",
+        "m131_helmet_specular.tga",
+        "m131_mask_color.tga",
+        "m131_mask_normal.tga",
+        "m131_mask_specular.tga",
+        "m131_opacity_color.tga",
+        "m131_opacity_normal.tga",
+        "m131_opacity_specular.tga"
+      ]
+    },
+    {
+      "id": "Professions/Fire_Female_02",
+      "name": "Fire Female 02",
+      "folder": "Fire_Female_02",
+      "category": "Professions",
+      "gender": "female",
+      "textures": [
+        "m133_body_color.tga",
+        "m133_body_normal.tga",
+        "m133_body_specular.tga",
+        "m133_flashlight_color.tga",
+        "m133_flashlight_normal.tga",
+        "m133_flashlight_specular.tga",
+        "m133_head_color.tga",
+        "m133_head_normal.tga",
+        "m133_head_specular.tga",
+        "m133_helmet_color.tga",
+        "m133_helmet_normal.tga",
+        "m133_helmet_specular.tga",
+        "m133_mask_color.tga",
+        "m133_mask_normal.tga",
+        "m133_mask_specular.tga",
+        "m133_opacity_color.tga",
+        "m133_opacity_normal.tga",
+        "m133_opacity_specular.tga"
+      ]
+    },
+    {
+      "id": "Professions/Fire_Female_03",
+      "name": "Fire Female 03",
+      "folder": "Fire_Female_03",
+      "category": "Professions",
+      "gender": "female",
+      "textures": [
+        "m137_body_color.tga",
+        "m137_body_normal.tga",
+        "m137_body_specular.tga",
+        "m137_flashlight_color.tga",
+        "m137_flashlight_normal.tga",
+        "m137_flashlight_specular.tga",
+        "m137_head_color.tga",
+        "m137_head_normal.tga",
+        "m137_head_specular.tga",
+        "m137_helmet_color.tga",
+        "m137_helmet_normal.tga",
+        "m137_helmet_specular.tga",
+        "m137_mask_color.tga",
+        "m137_mask_normal.tga",
+        "m137_mask_specular.tga",
+        "m137_opacity_color.tga",
+        "m137_opacity_normal.tga",
+        "m137_opacity_specular.tga"
+      ]
+    },
+    {
+      "id": "Professions/Fire_Male_01",
+      "name": "Fire Male 01",
+      "folder": "Fire_Male_01",
+      "category": "Professions",
+      "gender": "male",
+      "textures": [
+        "m138_body_color.tga",
+        "m138_body_normal.tga",
+        "m138_body_specular.tga",
+        "m138_head_color.tga",
+        "m138_head_normal.tga",
+        "m138_head_specular.tga",
+        "m138_helmet_color.tga",
+        "m138_helmet_normal.tga",
+        "m138_helmet_specular.tga"
+      ]
+    },
+    {
+      "id": "Professions/Fire_Male_02",
+      "name": "Fire Male 02",
+      "folder": "Fire_Male_02",
+      "category": "Professions",
+      "gender": "male",
+      "textures": [
+        "m132_body_color.tga",
+        "m132_body_normal.tga",
+        "m132_body_specular.tga",
+        "m132_head_color.tga",
+        "m132_head_normal.tga",
+        "m132_head_specular.tga",
+        "m132_helmet_color.tga",
+        "m132_helmet_normal.tga",
+        "m132_helmet_specular.tga",
+        "m132_opacity_color.tga",
+        "m132_opacity_normal.tga",
+        "m132_opacity_specular.tga"
+      ]
+    },
+    {
+      "id": "Professions/Fire_Male_03",
+      "name": "Fire Male 03",
+      "folder": "Fire_Male_03",
+      "category": "Professions",
+      "gender": "male",
+      "textures": [
+        "m134_body_color.tga",
+        "m134_body_normal.tga",
+        "m134_body_specular.tga",
+        "m134_head_color.tga",
+        "m134_head_normal.tga",
+        "m134_head_specular.tga",
+        "m134_helmet_color.tga",
+        "m134_helmet_normal.tga",
+        "m134_helmet_specular.tga"
+      ]
+    },
+    {
+      "id": "Professions/Fire_Male_04",
+      "name": "Fire Male 04",
+      "folder": "Fire_Male_04",
+      "category": "Professions",
+      "gender": "male",
+      "textures": [
+        "m135_body_color.tga",
+        "m135_body_normal.tga",
+        "m135_body_specular.tga",
+        "m135_flashlight_color.tga",
+        "m135_flashlight_normal.tga",
+        "m135_flashlight_specular.tga",
+        "m135_head_color.tga",
+        "m135_head_normal.tga",
+        "m135_head_specular.tga",
+        "m135_helmet_color.tga",
+        "m135_helmet_normal.tga",
+        "m135_helmet_specular.tga",
+        "m135_mask_color.tga",
+        "m135_mask_normal.tga",
+        "m135_mask_specular.tga",
+        "m135_opacity_color.tga",
+        "m135_opacity_normal.tga",
+        "m135_opacity_specular.tga"
+      ]
+    },
+    {
+      "id": "Professions/Fire_Male_05",
+      "name": "Fire Male 05",
+      "folder": "Fire_Male_05",
+      "category": "Professions",
+      "gender": "male",
+      "textures": [
+        "m136_body_color.tga",
+        "m136_body_normal.tga",
+        "m136_body_specular.tga",
+        "m136_head_color.tga",
+        "m136_head_normal.tga",
+        "m136_head_specular.tga",
+        "m136_helmet_color.tga",
+        "m136_helmet_normal.tga",
+        "m136_helmet_specular.tga",
+        "m136_opacity_color.tga",
+        "m136_opacity_normal.tga",
+        "m136_opacity_specular.tga"
+      ]
+    },
+    {
+      "id": "Professions/Fire_Male_06",
+      "name": "Fire Male 06",
+      "folder": "Fire_Male_06",
+      "category": "Professions",
+      "gender": "male",
+      "textures": [
+        "m130_body_color.tga",
+        "m130_body_normal.tga",
+        "m130_body_specular.tga",
+        "m130_head_color.tga",
+        "m130_head_normal.tga",
+        "m130_head_specular.tga",
+        "m130_helmet_color.tga",
+        "m130_helmet_normal.tga",
+        "m130_helmet_specular.tga"
+      ]
+    },
+    {
+      "id": "Professions/Fire_Male_07",
+      "name": "Fire Male 07",
+      "folder": "Fire_Male_07",
+      "category": "Professions",
+      "gender": "male",
+      "textures": [
+        "m139_body_color.tga",
+        "m139_body_normal.tga",
+        "m139_body_specular.tga",
+        "m139_flashlight_color.tga",
+        "m139_flashlight_normal.tga",
+        "m139_flashlight_specular.tga",
+        "m139_head_color.tga",
+        "m139_head_normal.tga",
+        "m139_head_specular.tga",
+        "m139_helmet_color.tga",
+        "m139_helmet_normal.tga",
+        "m139_helmet_specular.tga",
+        "m139_mask_color.tga",
+        "m139_mask_normal.tga",
+        "m139_mask_specular.tga",
+        "m139_opacity_color.tga",
+        "m139_opacity_normal.tga",
+        "m139_opacity_specular.tga"
+      ]
+    },
+    {
+      "id": "Professions/Gardener_Male_01",
+      "name": "Gardener Male 01",
+      "folder": "Gardener_Male_01",
+      "category": "Professions",
+      "gender": "male",
+      "textures": [
+        "m106_body_color.tga",
+        "m106_body_normal.tga",
+        "m106_body_specular.tga",
+        "m106_head_color.tga",
+        "m106_head_normal.tga",
+        "m106_head_specular.tga",
+        "m106_opacity_color.tga"
+      ]
+    },
+    {
+      "id": "Professions/Medical_Female_01",
+      "name": "Medical Female 01",
+      "folder": "Medical_Female_01",
+      "category": "Professions",
+      "gender": "female",
+      "textures": [
+        "f152_body_color.tga",
+        "f152_body_normal.tga",
+        "f152_body_specular.tga",
+        "f152_head_color.tga",
+        "f152_head_normal.tga",
+        "f152_head_specular.tga",
+        "f152_opacity_color.tga"
+      ]
+    },
+    {
+      "id": "Professions/Medical_Female_02",
+      "name": "Medical Female 02",
+      "folder": "Medical_Female_02",
+      "category": "Professions",
+      "gender": "female",
+      "textures": [
+        "f153_body_color.tga",
+        "f153_body_normal.tga",
+        "f153_body_specular.tga",
+        "f153_head_color.tga",
+        "f153_head_normal.tga",
+        "f153_head_specular.tga",
+        "f153_opacity_color.tga",
+        "f153_stetoskop_color.tga",
+        "f153_stetoskop_normal.tga",
+        "f153_stetoskop_specular.tga"
+      ]
+    },
+    {
+      "id": "Professions/Medical_Female_03",
+      "name": "Medical Female 03",
+      "folder": "Medical_Female_03",
+      "category": "Professions",
+      "gender": "female",
+      "textures": [
+        "f154_body_color_blue.tga",
+        "f154_body_normal.tga",
+        "f154_body_specular.tga",
+        "f154_head_color.tga",
+        "f154_head_normal.tga",
+        "f154_head_specular.tga",
+        "f154_opacity_color.tga"
+      ]
+    },
+    {
+      "id": "Professions/Medical_Male_01",
+      "name": "Medical Male 01",
+      "folder": "Medical_Male_01",
+      "category": "Professions",
+      "gender": "male",
+      "textures": [
+        "m152_body_color.tga",
+        "m152_body_normal.tga",
+        "m152_body_specular.tga",
+        "m152_head_color.tga",
+        "m152_head_normal.tga",
+        "m152_head_specular.tga",
+        "m152_opacity_color.tga"
+      ]
+    },
+    {
+      "id": "Professions/Medical_Male_02",
+      "name": "Medical Male 02",
+      "folder": "Medical_Male_02",
+      "category": "Professions",
+      "gender": "male",
+      "textures": [
+        "m154_body_color_blue.tga",
+        "m154_body_normal.tga",
+        "m154_body_specular.tga",
+        "m154_head_color.tga",
+        "m154_head_normal.tga",
+        "m154_head_specular.tga",
+        "m154_opacity_color.tga"
+      ]
+    },
+    {
+      "id": "Professions/Medical_Male_03",
+      "name": "Medical Male 03",
+      "folder": "Medical_Male_03",
+      "category": "Professions",
+      "gender": "male",
+      "textures": [
+        "m153_body_color.tga",
+        "m153_body_normal.tga",
+        "m153_body_specular.tga",
+        "m153_head_color.tga",
+        "m153_head_normal.tga",
+        "m153_head_specular.tga",
+        "m153_stetoskop_color.tga",
+        "m153_stetoskop_normal.tga"
+      ]
+    },
+    {
+      "id": "Professions/Medical_Male_04",
+      "name": "Medical Male 04",
+      "folder": "Medical_Male_04",
+      "category": "Professions",
+      "gender": "male",
+      "textures": [
+        "m162_body_color.tga",
+        "m162_body_normal.tga",
+        "m162_body_specular.tga",
+        "m162_head_color.tga",
+        "m162_head_normal.tga",
+        "m162_head_specular.tga",
+        "m162_protection_color.tga",
+        "m162_protection_normal.tga",
+        "m162_protection_specular.tga"
+      ]
+    },
+    {
+      "id": "Professions/Medical_Male_05",
+      "name": "Medical Male 05",
+      "folder": "Medical_Male_05",
+      "category": "Professions",
+      "gender": "male",
+      "textures": [
+        "m163_body_color.tga",
+        "m163_body_normal.tga",
+        "m163_body_specular.tga",
+        "m163_head_color.tga",
+        "m163_head_normal.tga",
+        "m163_head_specular.tga",
+        "m163_protection_color.tga",
+        "m163_protection_normal.tga",
+        "m163_protection_specular.tga"
+      ]
+    },
+    {
+      "id": "Professions/Military_Female_01",
+      "name": "Military Female 01",
+      "folder": "Military_Female_01",
+      "category": "Professions",
+      "gender": "female",
+      "textures": [
+        "sf003_body_color_acu.tga",
+        "sf003_body_normal.tga",
+        "sf003_body_specular.tga",
+        "sf003_equipment_color_acu.tga",
+        "sf003_equipment_normal.tga",
+        "sf003_equipment_specular.tga",
+        "sf003_head_color.tga",
+        "sf003_head_normal.tga",
+        "sf003_head_specular.tga",
+        "sf003_helmet_color_acu.tga",
+        "sf003_helmet_normal.tga",
+        "sf003_helmet_specular.tga"
+      ]
+    },
+    {
+      "id": "Professions/Military_Female_02",
+      "name": "Military Female 02",
+      "folder": "Military_Female_02",
+      "category": "Professions",
+      "gender": "female",
+      "textures": [
+        "sf004_body_color_acu.tga",
+        "sf004_body_normal.tga",
+        "sf004_body_specular.tga",
+        "sf004_equipment_color_acu.tga",
+        "sf004_equipment_normal.tga",
+        "sf004_equipment_specular.tga",
+        "sf004_head_color.tga",
+        "sf004_head_normal.tga",
+        "sf004_head_specular.tga",
+        "sf004_helmet_color_acu.tga",
+        "sf004_helmet_normal.tga",
+        "sf004_helmet_specular.tga"
+      ]
+    },
+    {
+      "id": "Professions/Military_Male_01",
+      "name": "Military Male 01",
+      "folder": "Military_Male_01",
+      "category": "Professions",
+      "gender": "male",
+      "textures": [
+        "sm002_body_color_acu.tga",
+        "sm002_body_normal.tga",
+        "sm002_body_specular.tga",
+        "sm002_combat_knife_color.tga",
+        "sm002_combat_knife_normal.tga",
+        "sm002_combat_knife_specular.tga",
+        "sm002_equipment_color_acu.tga",
+        "sm002_equipment_normal.tga",
+        "sm002_equipment_specular.tga",
+        "sm002_head_color.tga",
+        "sm002_head_normal.tga",
+        "sm002_head_specular.tga",
+        "sm002_helmet_color_acu.tga",
+        "sm002_helmet_normal.tga",
+        "sm002_helmet_specular.tga"
+      ]
+    },
+    {
+      "id": "Professions/Military_Male_02",
+      "name": "Military Male 02",
+      "folder": "Military_Male_02",
+      "category": "Professions",
+      "gender": "male",
+      "textures": [
+        "sm024_body_color_acu.tga",
+        "sm024_body_normal.tga",
+        "sm024_body_specular.tga",
+        "sm024_head_color_acu.tga",
+        "sm024_head_normal.tga",
+        "sm024_head_specular.tga"
+      ]
+    },
+    {
+      "id": "Professions/Military_Male_03",
+      "name": "Military Male 03",
+      "folder": "Military_Male_03",
+      "category": "Professions",
+      "gender": "male",
+      "textures": [
+        "sm004_body_color_acu.tga",
+        "sm004_body_normal.tga",
+        "sm004_body_specular.tga",
+        "sm004_equipment_color_acu.tga",
+        "sm004_equipment_normal.tga",
+        "sm004_equipment_specular.tga",
+        "sm004_head_color.tga",
+        "sm004_head_normal.tga",
+        "sm004_head_specular.tga",
+        "sm004_helmet_color_acu.tga",
+        "sm004_helmet_normal.tga",
+        "sm004_helmet_specular.tga",
+        "sm004_pistol_color.tga",
+        "sm004_pistol_normal.tga",
+        "sm004_pistol_specular.tga"
+      ]
+    },
+    {
+      "id": "Professions/Military_Male_04",
+      "name": "Military Male 04",
+      "folder": "Military_Male_04",
+      "category": "Professions",
+      "gender": "male",
+      "textures": [
+        "sm005_body_color_acu.tga",
+        "sm005_body_normal.tga",
+        "sm005_body_specular.tga",
+        "sm005_equipment_color_acu.tga",
+        "sm005_equipment_normal.tga",
+        "sm005_equipment_specular.tga",
+        "sm005_head_color.tga",
+        "sm005_head_normal.tga",
+        "sm005_head_specular.tga",
+        "sm005_helmet_color_acu.tga",
+        "sm005_helmet_normal.tga",
+        "sm005_helmet_specular.tga"
+      ]
+    },
+    {
+      "id": "Professions/Military_Male_05",
+      "name": "Military Male 05",
+      "folder": "Military_Male_05",
+      "category": "Professions",
+      "gender": "male",
+      "textures": [
+        "sm022_body_color_acu.tga",
+        "sm022_body_normal.tga",
+        "sm022_body_specular.tga",
+        "sm022_head_color_acu.tga",
+        "sm022_head_normal.tga",
+        "sm022_head_specular.tga"
+      ]
+    },
+    {
+      "id": "Professions/Military_Male_06",
+      "name": "Military Male 06",
+      "folder": "Military_Male_06",
+      "category": "Professions",
+      "gender": "male",
+      "textures": [
+        "sm021_body_color_acu.tga",
+        "sm021_body_normal.tga",
+        "sm021_body_specular.tga",
+        "sm021_head_color_acu.tga",
+        "sm021_head_normal.tga",
+        "sm021_head_specular.tga"
+      ]
+    },
+    {
+      "id": "Professions/Pilot_Female_01",
+      "name": "Pilot Female 01",
+      "folder": "Pilot_Female_01",
+      "category": "Professions",
+      "gender": "female",
+      "textures": [
+        "f168_body_color.tga",
+        "f168_body_normal.tga",
+        "f168_body_specular.tga",
+        "f168_hat_color.tga",
+        "f168_hat_normal.tga",
+        "f168_hat_specular.tga",
+        "f168_head_color.tga",
+        "f168_head_normal.tga",
+        "f168_head_specular.tga"
+      ]
+    },
+    {
+      "id": "Professions/Pilot_Female_02",
+      "name": "Pilot Female 02",
+      "folder": "Pilot_Female_02",
+      "category": "Professions",
+      "gender": "female",
+      "textures": [
+        "f169_body_color.tga",
+        "f169_body_normal.tga",
+        "f169_body_specular.tga",
+        "f169_hat_color.tga",
+        "f169_hat_normal.tga",
+        "f169_hat_specular.tga",
+        "f169_head_color.tga",
+        "f169_head_normal.tga",
+        "f169_head_specular.tga"
+      ]
+    },
+    {
+      "id": "Professions/Pilot_Male_01",
+      "name": "Pilot Male 01",
+      "folder": "Pilot_Male_01",
+      "category": "Professions",
+      "gender": "male",
+      "textures": [
+        "m150_body_color.tga",
+        "m150_body_normal.tga",
+        "m150_body_specular.tga",
+        "m150_head_color.tga",
+        "m150_head_normal.tga",
+        "m150_head_specular.tga"
+      ]
+    },
+    {
+      "id": "Professions/Pilot_Male_02",
+      "name": "Pilot Male 02",
+      "folder": "Pilot_Male_02",
+      "category": "Professions",
+      "gender": "male",
+      "textures": [
+        "m151_body_color.tga",
+        "m151_body_normal.tga",
+        "m151_body_specular.tga",
+        "m151_head_color.tga",
+        "m151_head_normal.tga",
+        "m151_head_specular.tga"
+      ]
+    },
+    {
+      "id": "Professions/Pilot_Male_03",
+      "name": "Pilot Male 03",
+      "folder": "Pilot_Male_03",
+      "category": "Professions",
+      "gender": "male",
+      "textures": [
+        "m167_body_color.tga",
+        "m167_body_normal.tga",
+        "m167_body_specular.tga",
+        "m167_head_color.tga",
+        "m167_head_normal.tga",
+        "m167_head_specular.tga"
+      ]
+    },
+    {
+      "id": "Professions/Police_Female_01",
+      "name": "Police Female 01",
+      "folder": "Police_Female_01",
+      "category": "Professions",
+      "gender": "female",
+      "textures": [
+        "m157_body_color.tga",
+        "m157_body_normal.tga",
+        "m157_body_specular.tga",
+        "m157_equipment_color.tga",
+        "m157_equipment_normal.tga",
+        "m157_equipment_specular.tga",
+        "m157_head_color.tga",
+        "m157_head_normal.tga",
+        "m157_head_specular.tga",
+        "m157_helmet_color.tga",
+        "m157_helmet_normal.tga",
+        "m157_helmet_specular.tga",
+        "m157_machinegun_color.tga",
+        "m157_machinegun_normal.tga",
+        "m157_machinegun_specular.tga",
+        "m157_opacity_color.tga",
+        "m157_opacity_normal.tga",
+        "m157_opacity_specular.tga",
+        "m157_pistol_color.tga",
+        "m157_pistol_normal.tga",
+        "m157_pistol_specular.tga",
+        "m157_shotgun_color.tga",
+        "m157_shotgun_normal.tga",
+        "m157_shotgun_specular.tga"
+      ]
+    },
+    {
+      "id": "Professions/Police_Male_01",
+      "name": "Police Male 01",
+      "folder": "Police_Male_01",
+      "category": "Professions",
+      "gender": "male",
+      "textures": [
+        "m220_body_color.tga",
+        "m220_body_normal.tga",
+        "m220_body_specular.tga",
+        "m220_equipment_color.tga",
+        "m220_equipment_normal.tga",
+        "m220_equipment_specular.tga",
+        "m220_head_color.tga",
+        "m220_head_normal.tga",
+        "m220_head_specular.tga",
+        "m220_pistol_color.tga",
+        "m220_pistol_normal.tga",
+        "m220_pistol_specular.tga"
+      ]
+    },
+    {
+      "id": "Professions/Police_Male_02",
+      "name": "Police Male 02",
+      "folder": "Police_Male_02",
+      "category": "Professions",
+      "gender": "male",
+      "textures": [
+        "m158_body_color.tga",
+        "m158_body_normal.tga",
+        "m158_body_specular.tga",
+        "m158_equipment_color.tga",
+        "m158_equipment_normal.tga",
+        "m158_equipment_specular.tga",
+        "m158_head_color.tga",
+        "m158_head_normal.tga",
+        "m158_head_specular.tga",
+        "m158_helmet_color.tga",
+        "m158_helmet_normal.tga",
+        "m158_helmet_specular.tga",
+        "m158_opacity_color.tga",
+        "m158_opacity_normal.tga",
+        "m158_opacity_specular.tga",
+        "m158_pistol_color.tga",
+        "m158_pistol_normal.tga",
+        "m158_pistol_specular.tga"
+      ]
+    },
+    {
+      "id": "Professions/Police_Male_03",
+      "name": "Police Male 03",
+      "folder": "Police_Male_03",
+      "category": "Professions",
+      "gender": "male",
+      "textures": [
+        "m156_body_color.tga",
+        "m156_body_normal.tga",
+        "m156_body_specular.tga",
+        "m156_equipment_color.tga",
+        "m156_equipment_normal.tga",
+        "m156_equipment_specular.tga",
+        "m156_head_color.tga",
+        "m156_head_normal.tga",
+        "m156_head_specular.tga",
+        "m156_pistol_color.tga",
+        "m156_pistol_normal.tga",
+        "m156_pistol_specular.tga",
+        "m172_body_color.tga",
+        "m172_body_normal.tga",
+        "m172_body_specular.tga",
+        "m172_equipment_color.tga",
+        "m172_equipment_normal.tga",
+        "m172_equipment_specular.tga",
+        "m172_head_color.tga",
+        "m172_head_normal.tga",
+        "m172_head_specular.tga",
+        "m172_pistol_color.tga",
+        "m172_pistol_normal.tga",
+        "m172_pistol_specular.tga"
+      ]
+    },
+    {
+      "id": "Professions/Police_Male_04",
+      "name": "Police Male 04",
+      "folder": "Police_Male_04",
+      "category": "Professions",
+      "gender": "male",
+      "textures": [
+        "m173_body_color.tga",
+        "m173_body_normal.tga",
+        "m173_body_specular.tga",
+        "m173_equipment_color.tga",
+        "m173_equipment_normal.tga",
+        "m173_equipment_specular.tga",
+        "m173_head_color.tga",
+        "m173_head_normal.tga",
+        "m173_head_specular.tga",
+        "m173_pistol_color.tga",
+        "m173_pistol_normal.tga",
+        "m173_pistol_specular.tga"
+      ]
+    },
+    {
+      "id": "Professions/Police_Male_05",
+      "name": "Police Male 05",
+      "folder": "Police_Male_05",
+      "category": "Professions",
+      "gender": "male",
+      "textures": [
+        "m169_body_color.tga",
+        "m169_body_normal.tga",
+        "m169_body_specular.tga",
+        "m169_head_color.tga",
+        "m169_head_normal.tga",
+        "m169_head_specular.tga"
+      ]
+    },
+    {
+      "id": "Professions/Police_Male_06",
+      "name": "Police Male 06",
+      "folder": "Police_Male_06",
+      "category": "Professions",
+      "gender": "male",
+      "textures": [
+        "m175_body_color.tga",
+        "m175_body_normal.tga",
+        "m175_body_specular.tga",
+        "m175_head_color.tga",
+        "m175_head_normal.tga",
+        "m175_head_specular.tga"
+      ]
+    },
+    {
+      "id": "Professions/Police_Male_07",
+      "name": "Police Male 07",
+      "folder": "Police_Male_07",
+      "category": "Professions",
+      "gender": "male",
+      "textures": [
+        "m176_body_color.tga",
+        "m176_body_normal.tga",
+        "m176_body_specular.tga",
+        "m176_head_color.tga",
+        "m176_head_normal.tga",
+        "m176_head_specular.tga"
+      ]
+    },
+    {
+      "id": "Professions/Security_Female_01",
+      "name": "Security Female 01",
+      "folder": "Security_Female_01",
+      "category": "Professions",
+      "gender": "female",
+      "textures": [
+        "f170_body_color.tga",
+        "f170_body_normal.tga",
+        "f170_body_specular.tga",
+        "f170_hat_color.tga",
+        "f170_hat_normal.tga",
+        "f170_hat_specular.tga",
+        "f170_head_color.tga",
+        "f170_head_normal.tga",
+        "f170_head_specular.tga",
+        "f170_pistol_color.tga",
+        "f170_pistol_normal.tga",
+        "f170_pistol_specular.tga"
+      ]
+    },
+    {
+      "id": "Professions/Security_Male_01",
+      "name": "Security Male 01",
+      "folder": "Security_Male_01",
+      "category": "Professions",
+      "gender": "male",
+      "textures": [
+        "m171_body_color.tga",
+        "m171_body_normal.tga",
+        "m171_body_specular.tga",
+        "m171_equipment_color.tga",
+        "m171_equipment_normal.tga",
+        "m171_equipment_specular.tga",
+        "m171_head_color.tga",
+        "m171_head_normal.tga",
+        "m171_head_specular.tga"
+      ]
+    },
+    {
+      "id": "Professions/Sports_Female_01",
+      "name": "Sports Female 01",
+      "folder": "Sports_Female_01",
+      "category": "Professions",
+      "gender": "female",
+      "textures": [
+        "f021_body_color.tga",
+        "f021_body_normal.tga",
+        "f021_body_specular.tga",
+        "f021_head_color.tga",
+        "f021_head_normal.tga",
+        "f021_head_specular.tga"
+      ]
+    },
+    {
+      "id": "Professions/Sports_Female_02",
+      "name": "Sports Female 02",
+      "folder": "Sports_Female_02",
+      "category": "Professions",
+      "gender": "female",
+      "textures": [
+        "f013_body_color.tga",
+        "f013_body_normal.tga",
+        "f013_body_specular.tga",
+        "f013_head_color.tga",
+        "f013_head_normal.tga",
+        "f013_head_specular.tga",
+        "f013_opacity_color.tga"
+      ]
+    },
+    {
+      "id": "Professions/Sports_Male_01",
+      "name": "Sports Male 01",
+      "folder": "Sports_Male_01",
+      "category": "Professions",
+      "gender": "male",
+      "textures": [
+        "m021_body_color.tga",
+        "m021_body_normal.tga",
+        "m021_body_specular.tga",
+        "m021_head_color.tga",
+        "m021_head_normal.tga",
+        "m021_head_specular.tga"
+      ]
+    },
+    {
+      "id": "Professions/Sports_Male_02",
+      "name": "Sports Male 02",
+      "folder": "Sports_Male_02",
+      "category": "Professions",
+      "gender": "male",
+      "textures": [
+        "m301_body_color.tga",
+        "m301_body_normal.tga",
+        "m301_body_specular.tga",
+        "m301_head_color.tga",
+        "m301_head_normal.tga",
+        "m301_head_specular.tga"
+      ]
+    },
+    {
+      "id": "Professions/Sports_Male_03",
+      "name": "Sports Male 03",
+      "folder": "Sports_Male_03",
+      "category": "Professions",
+      "gender": "male",
+      "textures": [
+        "m300_body_color.tga",
+        "m300_body_normal.tga",
+        "m300_body_specular.tga",
+        "m300_head_color.tga",
+        "m300_head_normal.tga",
+        "m300_head_specular.tga",
+        "m300_opacity_color.tga"
+      ]
+    },
+    {
+      "id": "Professions/Sports_Male_04",
+      "name": "Sports Male 04",
+      "folder": "Sports_Male_04",
+      "category": "Professions",
+      "gender": "male",
+      "textures": [
+        "m026_body_color.tga",
+        "m026_body_normal.tga",
+        "m026_body_specular.tga",
+        "m026_head_color.tga",
+        "m026_head_normal.tga",
+        "m026_head_specular.tga"
+      ]
+    },
+    {
+      "id": "Professions/Wood_Male_01",
+      "name": "Wood Male 01",
+      "folder": "Wood_Male_01",
+      "category": "Professions",
+      "gender": "male",
+      "textures": [
+        "m110_body_color.tga",
+        "m110_body_normal.tga",
+        "m110_body_specular.tga",
+        "m110_head_color.tga",
+        "m110_head_normal.tga",
+        "m110_head_specular.tga"
+      ]
+    }
+  ],
+  "animations": [
+    {
+      "id": "cell_phone_listen_01",
+      "label": "cell phone listen 01",
+      "group": "cell",
+      "motions": {
+        "static": {
+          "male": "Assets/Animations/all_animations_max_motextr_static/m_cell_phone_listen_01.max.fbx"
+        }
+      }
+    },
+    {
+      "id": "cell_phone_talk_01",
+      "label": "cell phone talk 01",
+      "group": "cell",
+      "motions": {
+        "static": {
+          "male": "Assets/Animations/all_animations_max_motextr_static/m_cell_phone_talk_01.max.fbx"
+        },
+        "xyz": {
+          "female": "Assets/Animations/all_animations_max_motextr_xyz/f_cell_phone_talk_01.max.fbx"
+        }
+      }
+    },
+    {
+      "id": "cell_phone_talk_02",
+      "label": "cell phone talk 02",
+      "group": "cell",
+      "motions": {
+        "xyz": {
+          "female": "Assets/Animations/all_animations_max_motextr_xyz/f_cell_phone_talk_02.max.fbx",
+          "male": "Assets/Animations/all_animations_max_motextr_xyz/m_cell_phone_talk_02.max.fbx"
+        }
+      }
+    },
+    {
+      "id": "cell_phone_textmessage",
+      "label": "cell phone textmessage",
+      "group": "cell",
+      "motions": {
+        "static": {
+          "female": "Assets/Animations/all_animations_max_motextr_static/f_cell_phone_textmessage.max.fbx",
+          "male": "Assets/Animations/all_animations_max_motextr_static/m_cell_phone_textmessage.max.fbx"
+        }
+      }
+    },
+    {
+      "id": "cheer_01",
+      "label": "cheer 01",
+      "group": "cheer",
+      "motions": {
+        "static": {
+          "female": "Assets/Animations/all_animations_max_motextr_static/f_cheer_01.max.fbx",
+          "male": "Assets/Animations/all_animations_max_motextr_static/m_cheer_01.max.fbx"
+        }
+      }
+    },
+    {
+      "id": "cheer_02",
+      "label": "cheer 02",
+      "group": "cheer",
+      "motions": {
+        "static": {
+          "female": "Assets/Animations/all_animations_max_motextr_static/f_cheer_02.max.fbx"
+        },
+        "xy": {
+          "male": "Assets/Animations/all_animations_max_motextr_xy/m_cheer_02.max.fbx"
+        }
+      }
+    },
+    {
+      "id": "cheer_03",
+      "label": "cheer 03",
+      "group": "cheer",
+      "motions": {
+        "static": {
+          "female": "Assets/Animations/all_animations_max_motextr_static/f_cheer_03.max.fbx",
+          "male": "Assets/Animations/all_animations_max_motextr_static/m_cheer_03.max.fbx"
+        }
+      }
+    },
+    {
+      "id": "cheer_04",
+      "label": "cheer 04",
+      "group": "cheer",
+      "motions": {
+        "static": {
+          "female": "Assets/Animations/all_animations_max_motextr_static/f_cheer_04.max.fbx",
+          "male": "Assets/Animations/all_animations_max_motextr_static/m_cheer_04.max.fbx"
+        }
+      }
+    },
+    {
+      "id": "cheer_05",
+      "label": "cheer 05",
+      "group": "cheer",
+      "motions": {
+        "static": {
+          "female": "Assets/Animations/all_animations_max_motextr_static/f_cheer_05.max.fbx",
+          "male": "Assets/Animations/all_animations_max_motextr_static/m_cheer_05.max.fbx"
+        }
+      }
+    },
+    {
+      "id": "claphands_01",
+      "label": "claphands 01",
+      "group": "claphands",
+      "motions": {
+        "static": {
+          "female": "Assets/Animations/all_animations_max_motextr_static/f_claphands_01.max.fbx",
+          "male": "Assets/Animations/all_animations_max_motextr_static/m_claphands_01.max.fbx"
+        }
+      }
+    },
+    {
+      "id": "claphands_02",
+      "label": "claphands 02",
+      "group": "claphands",
+      "motions": {
+        "static": {
+          "female": "Assets/Animations/all_animations_max_motextr_static/f_claphands_02.max.fbx",
+          "male": "Assets/Animations/all_animations_max_motextr_static/m_claphands_02.max.fbx"
+        }
+      }
+    },
+    {
+      "id": "crouch_gestic",
+      "label": "crouch gestic",
+      "group": "crouch",
+      "motions": {
+        "static": {
+          "female": "Assets/Animations/all_animations_max_motextr_static/f_crouch_gestic.max.fbx",
+          "male": "Assets/Animations/all_animations_max_motextr_static/m_crouch_gestic.max.fbx"
+        }
+      }
+    },
+    {
+      "id": "crouch_idle",
+      "label": "crouch idle",
+      "group": "crouch",
+      "motions": {
+        "static": {
+          "female": "Assets/Animations/all_animations_max_motextr_static/f_crouch_idle.max.fbx",
+          "male": "Assets/Animations/all_animations_max_motextr_static/m_crouch_idle.max.fbx"
+        }
+      }
+    },
+    {
+      "id": "crouch_in",
+      "label": "crouch in",
+      "group": "crouch",
+      "motions": {
+        "static": {
+          "female": "Assets/Animations/all_animations_max_motextr_static/f_crouch_in.max.fbx"
+        },
+        "xy": {
+          "male": "Assets/Animations/all_animations_max_motextr_xy/m_crouch_in.max.fbx"
+        }
+      }
+    },
+    {
+      "id": "crouch_out",
+      "label": "crouch out",
+      "group": "crouch",
+      "motions": {
+        "static": {
+          "female": "Assets/Animations/all_animations_max_motextr_static/f_crouch_out.max.fbx"
+        },
+        "xy": {
+          "male": "Assets/Animations/all_animations_max_motextr_xy/m_crouch_out.max.fbx"
+        }
+      }
+    },
+    {
+      "id": "dancing_affective",
+      "label": "dancing affective",
+      "group": "dancing",
+      "motions": {
+        "static": {
+          "female": "Assets/Animations/all_animations_max_motextr_static/f_dancing_affective.max.fbx"
+        }
+      }
+    },
+    {
+      "id": "dancing_aggressive",
+      "label": "dancing aggressive",
+      "group": "dancing",
+      "motions": {
+        "static": {
+          "female": "Assets/Animations/all_animations_max_motextr_static/f_dancing_aggressive.max.fbx",
+          "male": "Assets/Animations/all_animations_max_motextr_static/m_dancing_aggressive.max.fbx"
+        }
+      }
+    },
+    {
+      "id": "dancing_cool",
+      "label": "dancing cool",
+      "group": "dancing",
+      "motions": {
+        "static": {
+          "female": "Assets/Animations/all_animations_max_motextr_static/f_dancing_cool.max.fbx",
+          "male": "Assets/Animations/all_animations_max_motextr_static/m_dancing_cool.max.fbx"
+        }
+      }
+    },
+    {
+      "id": "dancing_neutral",
+      "label": "dancing neutral",
+      "group": "dancing",
+      "motions": {
+        "static": {
+          "female": "Assets/Animations/all_animations_max_motextr_static/f_dancing_neutral.max.fbx",
+          "male": "Assets/Animations/all_animations_max_motextr_static/m_dancing_neutral.max.fbx"
+        }
+      }
+    },
+    {
+      "id": "dancing_sexy",
+      "label": "dancing sexy",
+      "group": "dancing",
+      "motions": {
+        "xyz": {
+          "male": "Assets/Animations/all_animations_max_motextr_xyz/m_dancing_sexy.max.fbx"
+        }
+      }
+    },
+    {
+      "id": "dancing_silly",
+      "label": "dancing silly",
+      "group": "dancing",
+      "motions": {
+        "static": {
+          "female": "Assets/Animations/all_animations_max_motextr_static/f_dancing_silly.max.fbx",
+          "male": "Assets/Animations/all_animations_max_motextr_static/m_dancing_silly.max.fbx"
+        }
+      }
+    },
+    {
+      "id": "documentfile_idle",
+      "label": "documentfile idle",
+      "group": "documentfile",
+      "motions": {
+        "static": {
+          "female": "Assets/Animations/all_animations_max_motextr_static/f_documentfile_idle.max.fbx",
+          "male": "Assets/Animations/all_animations_max_motextr_static/m_documentfile_idle.max.fbx"
+        }
+      }
+    },
+    {
+      "id": "documents_check",
+      "label": "documents check",
+      "group": "documents",
+      "motions": {
+        "static": {
+          "female": "Assets/Animations/all_animations_max_motextr_static/f_documents_check.max.fbx",
+          "male": "Assets/Animations/all_animations_max_motextr_static/m_documents_check.max.fbx"
+        }
+      }
+    },
+    {
+      "id": "documents_idle",
+      "label": "documents idle",
+      "group": "documents",
+      "motions": {
+        "static": {
+          "female": "Assets/Animations/all_animations_max_motextr_static/f_documents_idle.max.fbx",
+          "male": "Assets/Animations/all_animations_max_motextr_static/m_documents_idle.max.fbx"
+        }
+      }
+    },
+    {
+      "id": "documents_in",
+      "label": "documents in",
+      "group": "documents",
+      "motions": {
+        "static": {
+          "female": "Assets/Animations/all_animations_max_motextr_static/f_documents_in.max.fbx",
+          "male": "Assets/Animations/all_animations_max_motextr_static/m_documents_in.max.fbx"
+        }
+      }
+    },
+    {
+      "id": "documents_note",
+      "label": "documents note",
+      "group": "documents",
+      "motions": {
+        "static": {
+          "female": "Assets/Animations/all_animations_max_motextr_static/f_documents_note.max.fbx",
+          "male": "Assets/Animations/all_animations_max_motextr_static/m_documents_note.max.fbx"
+        }
+      }
+    },
+    {
+      "id": "documents_out",
+      "label": "documents out",
+      "group": "documents",
+      "motions": {
+        "static": {
+          "female": "Assets/Animations/all_animations_max_motextr_static/f_documents_out.max.fbx",
+          "male": "Assets/Animations/all_animations_max_motextr_static/m_documents_out.max.fbx"
+        }
+      }
+    },
+    {
+      "id": "documents_take",
+      "label": "documents take",
+      "group": "documents",
+      "motions": {
+        "static": {
+          "female": "Assets/Animations/all_animations_max_motextr_static/f_documents_take.max.fbx",
+          "male": "Assets/Animations/all_animations_max_motextr_static/m_documents_take.max.fbx"
+        }
+      }
+    },
+    {
+      "id": "drink_drinking",
+      "label": "drink drinking",
+      "group": "drink",
+      "motions": {
+        "static": {
+          "female": "Assets/Animations/all_animations_max_motextr_static/f_drink_drinking.max.fbx",
+          "male": "Assets/Animations/all_animations_max_motextr_static/m_drink_drinking.max.fbx"
+        }
+      }
+    },
+    {
+      "id": "drink_idle",
+      "label": "drink idle",
+      "group": "drink",
+      "motions": {
+        "static": {
+          "female": "Assets/Animations/all_animations_max_motextr_static/f_drink_idle.max.fbx",
+          "male": "Assets/Animations/all_animations_max_motextr_static/m_drink_idle.max.fbx"
+        }
+      }
+    },
+    {
+      "id": "drunk_gestic_01",
+      "label": "drunk gestic 01",
+      "group": "drunk",
+      "motions": {
+        "static": {
+          "male": "Assets/Animations/all_animations_max_motextr_static/m_drunk_gestic_01.max.fbx"
+        }
+      }
+    },
+    {
+      "id": "drunk_gestic_02",
+      "label": "drunk gestic 02",
+      "group": "drunk",
+      "motions": {
+        "static": {
+          "male": "Assets/Animations/all_animations_max_motextr_static/m_drunk_gestic_02.max.fbx"
+        }
+      }
+    },
+    {
+      "id": "gestic_laugh_extreme",
+      "label": "gestic laugh extreme",
+      "group": "gestic",
+      "motions": {
+        "static": {
+          "female": "Assets/Animations/all_animations_max_motextr_static/f_gestic_laugh_extreme.max.fbx",
+          "male": "Assets/Animations/all_animations_max_motextr_static/m_gestic_laugh_extreme.max.fbx"
+        }
+      }
+    },
+    {
+      "id": "gestic_laugh_loud",
+      "label": "gestic laugh loud",
+      "group": "gestic",
+      "motions": {
+        "static": {
+          "female": "Assets/Animations/all_animations_max_motextr_static/f_gestic_laugh_loud.max.fbx",
+          "male": "Assets/Animations/all_animations_max_motextr_static/m_gestic_laugh_loud.max.fbx"
+        }
+      }
+    },
+    {
+      "id": "gestic_laugh_low",
+      "label": "gestic laugh low",
+      "group": "gestic",
+      "motions": {
+        "static": {
+          "female": "Assets/Animations/all_animations_max_motextr_static/f_gestic_laugh_low.max.fbx",
+          "male": "Assets/Animations/all_animations_max_motextr_static/m_gestic_laugh_low.max.fbx"
+        }
+      }
+    },
+    {
+      "id": "gestic_listen_accept_01",
+      "label": "gestic listen accept 01",
+      "group": "gestic",
+      "motions": {
+        "static": {
+          "female": "Assets/Animations/all_animations_max_motextr_static/f_gestic_listen_accept_01.max.fbx",
+          "male": "Assets/Animations/all_animations_max_motextr_static/m_gestic_listen_accept_01.max.fbx"
+        }
+      }
+    },
+    {
+      "id": "gestic_listen_accept_02",
+      "label": "gestic listen accept 02",
+      "group": "gestic",
+      "motions": {
+        "static": {
+          "female": "Assets/Animations/all_animations_max_motextr_static/f_gestic_listen_accept_02.max.fbx",
+          "male": "Assets/Animations/all_animations_max_motextr_static/m_gestic_listen_accept_02.max.fbx"
+        }
+      }
+    },
+    {
+      "id": "gestic_listen_accept_03",
+      "label": "gestic listen accept 03",
+      "group": "gestic",
+      "motions": {
+        "static": {
+          "female": "Assets/Animations/all_animations_max_motextr_static/f_gestic_listen_accept_03.max.fbx",
+          "male": "Assets/Animations/all_animations_max_motextr_static/m_gestic_listen_accept_03.max.fbx"
+        }
+      }
+    },
+    {
+      "id": "gestic_listen_accept_04",
+      "label": "gestic listen accept 04",
+      "group": "gestic",
+      "motions": {
+        "static": {
+          "female": "Assets/Animations/all_animations_max_motextr_static/f_gestic_listen_accept_04.max.fbx",
+          "male": "Assets/Animations/all_animations_max_motextr_static/m_gestic_listen_accept_04.max.fbx"
+        }
+      }
+    },
+    {
+      "id": "gestic_listen_accept_05",
+      "label": "gestic listen accept 05",
+      "group": "gestic",
+      "motions": {
+        "static": {
+          "female": "Assets/Animations/all_animations_max_motextr_static/f_gestic_listen_accept_05.max.fbx",
+          "male": "Assets/Animations/all_animations_max_motextr_static/m_gestic_listen_accept_05.max.fbx"
+        }
+      }
+    },
+    {
+      "id": "gestic_listen_angry_01",
+      "label": "gestic listen angry 01",
+      "group": "gestic",
+      "motions": {
+        "static": {
+          "female": "Assets/Animations/all_animations_max_motextr_static/f_gestic_listen_angry_01.max.fbx",
+          "male": "Assets/Animations/all_animations_max_motextr_static/m_gestic_listen_angry_01.max.fbx"
+        }
+      }
+    },
+    {
+      "id": "gestic_listen_deny_01",
+      "label": "gestic listen deny 01",
+      "group": "gestic",
+      "motions": {
+        "static": {
+          "female": "Assets/Animations/all_animations_max_motextr_static/f_gestic_listen_deny_01.max.fbx",
+          "male": "Assets/Animations/all_animations_max_motextr_static/m_gestic_listen_deny_01.max.fbx"
+        }
+      }
+    },
+    {
+      "id": "gestic_listen_deny_02",
+      "label": "gestic listen deny 02",
+      "group": "gestic",
+      "motions": {
+        "static": {
+          "female": "Assets/Animations/all_animations_max_motextr_static/f_gestic_listen_deny_02.max.fbx",
+          "male": "Assets/Animations/all_animations_max_motextr_static/m_gestic_listen_deny_02.max.fbx"
+        }
+      }
+    },
+    {
+      "id": "gestic_listen_deny_03",
+      "label": "gestic listen deny 03",
+      "group": "gestic",
+      "motions": {
+        "static": {
+          "female": "Assets/Animations/all_animations_max_motextr_static/f_gestic_listen_deny_03.max.fbx",
+          "male": "Assets/Animations/all_animations_max_motextr_static/m_gestic_listen_deny_03.max.fbx"
+        }
+      }
+    },
+    {
+      "id": "gestic_listen_deny_04",
+      "label": "gestic listen deny 04",
+      "group": "gestic",
+      "motions": {
+        "static": {
+          "female": "Assets/Animations/all_animations_max_motextr_static/f_gestic_listen_deny_04.max.fbx",
+          "male": "Assets/Animations/all_animations_max_motextr_static/m_gestic_listen_deny_04.max.fbx"
+        }
+      }
+    },
+    {
+      "id": "gestic_listen_deny_05",
+      "label": "gestic listen deny 05",
+      "group": "gestic",
+      "motions": {
+        "static": {
+          "female": "Assets/Animations/all_animations_max_motextr_static/f_gestic_listen_deny_05.max.fbx",
+          "male": "Assets/Animations/all_animations_max_motextr_static/m_gestic_listen_deny_05.max.fbx"
+        }
+      }
+    },
+    {
+      "id": "gestic_listen_deny_06",
+      "label": "gestic listen deny 06",
+      "group": "gestic",
+      "motions": {
+        "static": {
+          "male": "Assets/Animations/all_animations_max_motextr_static/m_gestic_listen_deny_06.max.fbx"
+        }
+      }
+    },
+    {
+      "id": "gestic_listen_excited_01",
+      "label": "gestic listen excited 01",
+      "group": "gestic",
+      "motions": {
+        "static": {
+          "female": "Assets/Animations/all_animations_max_motextr_static/f_gestic_listen_excited_01.max.fbx",
+          "male": "Assets/Animations/all_animations_max_motextr_static/m_gestic_listen_excited_01.max.fbx"
+        }
+      }
+    },
+    {
+      "id": "gestic_listen_left_01",
+      "label": "gestic listen left 01",
+      "group": "gestic",
+      "motions": {
+        "static": {
+          "female": "Assets/Animations/all_animations_max_motextr_static/f_gestic_listen_left_01.max.fbx",
+          "male": "Assets/Animations/all_animations_max_motextr_static/m_gestic_listen_left_01.max.fbx"
+        }
+      }
+    },
+    {
+      "id": "gestic_listen_nervous_01",
+      "label": "gestic listen nervous 01",
+      "group": "gestic",
+      "motions": {
+        "static": {
+          "female": "Assets/Animations/all_animations_max_motextr_static/f_gestic_listen_nervous_01.max.fbx",
+          "male": "Assets/Animations/all_animations_max_motextr_static/m_gestic_listen_nervous_01.max.fbx"
+        }
+      }
+    },
+    {
+      "id": "gestic_listen_neutral_01",
+      "label": "gestic listen neutral 01",
+      "group": "gestic",
+      "motions": {
+        "static": {
+          "female": "Assets/Animations/all_animations_max_motextr_static/f_gestic_listen_neutral_01.max.fbx",
+          "male": "Assets/Animations/all_animations_max_motextr_static/m_gestic_listen_neutral_01.max.fbx"
+        }
+      }
+    },
+    {
+      "id": "gestic_listen_neutral_02",
+      "label": "gestic listen neutral 02",
+      "group": "gestic",
+      "motions": {
+        "static": {
+          "female": "Assets/Animations/all_animations_max_motextr_static/f_gestic_listen_neutral_02.max.fbx",
+          "male": "Assets/Animations/all_animations_max_motextr_static/m_gestic_listen_neutral_02.max.fbx"
+        }
+      }
+    },
+    {
+      "id": "gestic_listen_neutral_03",
+      "label": "gestic listen neutral 03",
+      "group": "gestic",
+      "motions": {
+        "static": {
+          "female": "Assets/Animations/all_animations_max_motextr_static/f_gestic_listen_neutral_03.max.fbx",
+          "male": "Assets/Animations/all_animations_max_motextr_static/m_gestic_listen_neutral_03.max.fbx"
+        }
+      }
+    },
+    {
+      "id": "gestic_listen_relaxed_01",
+      "label": "gestic listen relaxed 01",
+      "group": "gestic",
+      "motions": {
+        "static": {
+          "female": "Assets/Animations/all_animations_max_motextr_static/f_gestic_listen_relaxed_01.max.fbx",
+          "male": "Assets/Animations/all_animations_max_motextr_static/m_gestic_listen_relaxed_01.max.fbx"
+        }
+      }
+    },
+    {
+      "id": "gestic_listen_right_01",
+      "label": "gestic listen right 01",
+      "group": "gestic",
+      "motions": {
+        "static": {
+          "female": "Assets/Animations/all_animations_max_motextr_static/f_gestic_listen_right_01.max.fbx",
+          "male": "Assets/Animations/all_animations_max_motextr_static/m_gestic_listen_right_01.max.fbx"
+        }
+      }
+    },
+    {
+      "id": "gestic_listen_sad_01",
+      "label": "gestic listen sad 01",
+      "group": "gestic",
+      "motions": {
+        "static": {
+          "female": "Assets/Animations/all_animations_max_motextr_static/f_gestic_listen_sad_01.max.fbx",
+          "male": "Assets/Animations/all_animations_max_motextr_static/m_gestic_listen_sad_01.max.fbx"
+        }
+      }
+    },
+    {
+      "id": "gestic_listen_self-assured_01",
+      "label": "gestic listen self-assured 01",
+      "group": "gestic",
+      "motions": {
+        "static": {
+          "female": "Assets/Animations/all_animations_max_motextr_static/f_gestic_listen_self-assured_01.max.fbx"
+        }
+      }
+    },
+    {
+      "id": "gestic_presentation_left_01",
+      "label": "gestic presentation left 01",
+      "group": "gestic",
+      "motions": {
+        "static": {
+          "female": "Assets/Animations/all_animations_max_motextr_static/f_gestic_presentation_left_01.max.fbx",
+          "male": "Assets/Animations/all_animations_max_motextr_static/m_gestic_presentation_left_01.max.fbx"
+        }
+      }
+    },
+    {
+      "id": "gestic_presentation_left_02",
+      "label": "gestic presentation left 02",
+      "group": "gestic",
+      "motions": {
+        "xyz": {
+          "female": "Assets/Animations/all_animations_max_motextr_xyz/f_gestic_presentation_left_02.max.fbx",
+          "male": "Assets/Animations/all_animations_max_motextr_xyz/m_gestic_presentation_left_02.max.fbx"
+        }
+      }
+    },
+    {
+      "id": "gestic_presentation_right_01",
+      "label": "gestic presentation right 01",
+      "group": "gestic",
+      "motions": {
+        "static": {
+          "female": "Assets/Animations/all_animations_max_motextr_static/f_gestic_presentation_right_01.max.fbx",
+          "male": "Assets/Animations/all_animations_max_motextr_static/m_gestic_presentation_right_01.max.fbx"
+        }
+      }
+    },
+    {
+      "id": "gestic_presentation_right_02",
+      "label": "gestic presentation right 02",
+      "group": "gestic",
+      "motions": {
+        "xyz": {
+          "female": "Assets/Animations/all_animations_max_motextr_xyz/f_gestic_presentation_right_02.max.fbx",
+          "male": "Assets/Animations/all_animations_max_motextr_xyz/m_gestic_presentation_right_02.max.fbx"
+        }
+      }
+    },
+    {
+      "id": "gestic_shrug_01",
+      "label": "gestic shrug 01",
+      "group": "gestic",
+      "motions": {
+        "static": {
+          "female": "Assets/Animations/all_animations_max_motextr_static/f_gestic_shrug_01.max.fbx",
+          "male": "Assets/Animations/all_animations_max_motextr_static/m_gestic_shrug_01.max.fbx"
+        }
+      }
+    },
+    {
+      "id": "gestic_shrug_02",
+      "label": "gestic shrug 02",
+      "group": "gestic",
+      "motions": {
+        "static": {
+          "female": "Assets/Animations/all_animations_max_motextr_static/f_gestic_shrug_02.max.fbx",
+          "male": "Assets/Animations/all_animations_max_motextr_static/m_gestic_shrug_02.max.fbx"
+        }
+      }
+    },
+    {
+      "id": "gestic_talk_angry_01",
+      "label": "gestic talk angry 01",
+      "group": "gestic",
+      "motions": {
+        "static": {
+          "female": "Assets/Animations/all_animations_max_motextr_static/f_gestic_talk_angry_01.max.fbx"
+        },
+        "xyz": {
+          "male": "Assets/Animations/all_animations_max_motextr_xyz/m_gestic_talk_angry_01.max.fbx"
+        }
+      }
+    },
+    {
+      "id": "gestic_talk_angry_02",
+      "label": "gestic talk angry 02",
+      "group": "gestic",
+      "motions": {
+        "xyz": {
+          "female": "Assets/Animations/all_animations_max_motextr_xyz/f_gestic_talk_angry_02.max.fbx",
+          "male": "Assets/Animations/all_animations_max_motextr_xyz/m_gestic_talk_angry_02.max.fbx"
+        }
+      }
+    },
+    {
+      "id": "gestic_talk_cool",
+      "label": "gestic talk cool",
+      "group": "gestic",
+      "motions": {
+        "static": {
+          "female": "Assets/Animations/all_animations_max_motextr_static/f_gestic_talk_cool.max.fbx",
+          "male": "Assets/Animations/all_animations_max_motextr_static/m_gestic_talk_cool.max.fbx"
+        }
+      }
+    },
+    {
+      "id": "gestic_talk_excited_01",
+      "label": "gestic talk excited 01",
+      "group": "gestic",
+      "motions": {
+        "static": {
+          "female": "Assets/Animations/all_animations_max_motextr_static/f_gestic_talk_excited_01.max.fbx",
+          "male": "Assets/Animations/all_animations_max_motextr_static/m_gestic_talk_excited_01.max.fbx"
+        }
+      }
+    },
+    {
+      "id": "gestic_talk_excited_02",
+      "label": "gestic talk excited 02",
+      "group": "gestic",
+      "motions": {
+        "static": {
+          "female": "Assets/Animations/all_animations_max_motextr_static/f_gestic_talk_excited_02.max.fbx"
+        },
+        "xyz": {
+          "male": "Assets/Animations/all_animations_max_motextr_xyz/m_gestic_talk_excited_02.max.fbx"
+        }
+      }
+    },
+    {
+      "id": "gestic_talk_femalestressed_01",
+      "label": "gestic talk femalestressed 01",
+      "group": "gestic",
+      "motions": {
+        "static": {
+          "female": "Assets/Animations/all_animations_max_motextr_static/f_gestic_talk_femalestressed_01.max.fbx"
+        }
+      }
+    },
+    {
+      "id": "gestic_talk_left_01",
+      "label": "gestic talk left 01",
+      "group": "gestic",
+      "motions": {
+        "static": {
+          "female": "Assets/Animations/all_animations_max_motextr_static/f_gestic_talk_left_01.max.fbx",
+          "male": "Assets/Animations/all_animations_max_motextr_static/m_gestic_talk_left_01.max.fbx"
+        }
+      }
+    },
+    {
+      "id": "gestic_talk_nervous_01",
+      "label": "gestic talk nervous 01",
+      "group": "gestic",
+      "motions": {
+        "static": {
+          "female": "Assets/Animations/all_animations_max_motextr_static/f_gestic_talk_nervous_01.max.fbx",
+          "male": "Assets/Animations/all_animations_max_motextr_static/m_gestic_talk_nervous_01.max.fbx"
+        }
+      }
+    },
+    {
+      "id": "gestic_talk_nervous_02",
+      "label": "gestic talk nervous 02",
+      "group": "gestic",
+      "motions": {
+        "static": {
+          "female": "Assets/Animations/all_animations_max_motextr_static/f_gestic_talk_nervous_02.max.fbx"
+        }
+      }
+    },
+    {
+      "id": "gestic_talk_neutral_01",
+      "label": "gestic talk neutral 01",
+      "group": "gestic",
+      "motions": {
+        "static": {
+          "female": "Assets/Animations/all_animations_max_motextr_static/f_gestic_talk_neutral_01.max.fbx",
+          "male": "Assets/Animations/all_animations_max_motextr_static/m_gestic_talk_neutral_01.max.fbx"
+        }
+      }
+    },
+    {
+      "id": "gestic_talk_neutral_02",
+      "label": "gestic talk neutral 02",
+      "group": "gestic",
+      "motions": {
+        "static": {
+          "female": "Assets/Animations/all_animations_max_motextr_static/f_gestic_talk_neutral_02.max.fbx",
+          "male": "Assets/Animations/all_animations_max_motextr_static/m_gestic_talk_neutral_02.max.fbx"
+        }
+      }
+    },
+    {
+      "id": "gestic_talk_neutral_03",
+      "label": "gestic talk neutral 03",
+      "group": "gestic",
+      "motions": {
+        "static": {
+          "female": "Assets/Animations/all_animations_max_motextr_static/f_gestic_talk_neutral_03.max.fbx",
+          "male": "Assets/Animations/all_animations_max_motextr_static/m_gestic_talk_neutral_03.max.fbx"
+        }
+      }
+    },
+    {
+      "id": "gestic_talk_neutral_04",
+      "label": "gestic talk neutral 04",
+      "group": "gestic",
+      "motions": {
+        "xyz": {
+          "female": "Assets/Animations/all_animations_max_motextr_xyz/f_gestic_talk_neutral_04.max.fbx",
+          "male": "Assets/Animations/all_animations_max_motextr_xyz/m_gestic_talk_neutral_04.max.fbx"
+        }
+      }
+    },
+    {
+      "id": "gestic_talk_neutral_05",
+      "label": "gestic talk neutral 05",
+      "group": "gestic",
+      "motions": {
+        "xyz": {
+          "female": "Assets/Animations/all_animations_max_motextr_xyz/f_gestic_talk_neutral_05.max.fbx",
+          "male": "Assets/Animations/all_animations_max_motextr_xyz/m_gestic_talk_neutral_05.max.fbx"
+        }
+      }
+    },
+    {
+      "id": "gestic_talk_relaxed_01",
+      "label": "gestic talk relaxed 01",
+      "group": "gestic",
+      "motions": {
+        "static": {
+          "female": "Assets/Animations/all_animations_max_motextr_static/f_gestic_talk_relaxed_01.max.fbx",
+          "male": "Assets/Animations/all_animations_max_motextr_static/m_gestic_talk_relaxed_01.max.fbx"
+        }
+      }
+    },
+    {
+      "id": "gestic_talk_relaxed_02",
+      "label": "gestic talk relaxed 02",
+      "group": "gestic",
+      "motions": {
+        "static": {
+          "female": "Assets/Animations/all_animations_max_motextr_static/f_gestic_talk_relaxed_02.max.fbx",
+          "male": "Assets/Animations/all_animations_max_motextr_static/m_gestic_talk_relaxed_02.max.fbx"
+        }
+      }
+    },
+    {
+      "id": "gestic_talk_right_01",
+      "label": "gestic talk right 01",
+      "group": "gestic",
+      "motions": {
+        "static": {
+          "female": "Assets/Animations/all_animations_max_motextr_static/f_gestic_talk_right_01.max.fbx",
+          "male": "Assets/Animations/all_animations_max_motextr_static/m_gestic_talk_right_01.max.fbx"
+        }
+      }
+    },
+    {
+      "id": "gestic_talk_sad_01",
+      "label": "gestic talk sad 01",
+      "group": "gestic",
+      "motions": {
+        "static": {
+          "female": "Assets/Animations/all_animations_max_motextr_static/f_gestic_talk_sad_01.max.fbx",
+          "male": "Assets/Animations/all_animations_max_motextr_static/m_gestic_talk_sad_01.max.fbx"
+        }
+      }
+    },
+    {
+      "id": "gestic_talk_self_assured_01",
+      "label": "gestic talk self assured 01",
+      "group": "gestic",
+      "motions": {
+        "xyz": {
+          "male": "Assets/Animations/all_animations_max_motextr_xyz/m_gestic_talk_self_assured_01.max.fbx"
+        }
+      }
+    },
+    {
+      "id": "gestic_talk_self_assured_02",
+      "label": "gestic talk self assured 02",
+      "group": "gestic",
+      "motions": {
+        "xyz": {
+          "male": "Assets/Animations/all_animations_max_motextr_xyz/m_gestic_talk_self_assured_02.max.fbx"
+        }
+      }
+    },
+    {
+      "id": "gestic_talk_self-assured_01",
+      "label": "gestic talk self-assured 01",
+      "group": "gestic",
+      "motions": {
+        "static": {
+          "female": "Assets/Animations/all_animations_max_motextr_static/f_gestic_talk_self-assured_01.max.fbx"
+        }
+      }
+    },
+    {
+      "id": "gestic_talk_self-assured_02",
+      "label": "gestic talk self-assured 02",
+      "group": "gestic",
+      "motions": {
+        "static": {
+          "female": "Assets/Animations/all_animations_max_motextr_static/f_gestic_talk_self-assured_02.max.fbx"
+        }
+      }
+    },
+    {
+      "id": "gestic_thoughtful_01",
+      "label": "gestic thoughtful 01",
+      "group": "gestic",
+      "motions": {
+        "static": {
+          "female": "Assets/Animations/all_animations_max_motextr_static/f_gestic_thoughtful_01.max.fbx",
+          "male": "Assets/Animations/all_animations_max_motextr_static/m_gestic_thoughtful_01.max.fbx"
+        }
+      }
+    },
+    {
+      "id": "headphones_idle",
+      "label": "headphones idle",
+      "group": "headphones",
+      "motions": {
+        "static": {
+          "female": "Assets/Animations/all_animations_max_motextr_static/f_headphones_idle.max.fbx",
+          "male": "Assets/Animations/all_animations_max_motextr_static/m_headphones_idle.max.fbx"
+        }
+      }
+    },
+    {
+      "id": "hold_bag_idle",
+      "label": "hold bag idle",
+      "group": "hold",
+      "motions": {
+        "static": {
+          "male": "Assets/Animations/all_animations_max_motextr_static/m_hold_bag_idle.max.fbx"
+        }
+      }
+    },
+    {
+      "id": "hold_bag_idle_01",
+      "label": "hold bag idle 01",
+      "group": "hold",
+      "motions": {
+        "static": {
+          "female": "Assets/Animations/all_animations_max_motextr_static/f_hold_bag_idle_01.max.fbx"
+        }
+      }
+    },
+    {
+      "id": "hold_bag_listen",
+      "label": "hold bag listen",
+      "group": "hold",
+      "motions": {
+        "static": {
+          "female": "Assets/Animations/all_animations_max_motextr_static/f_hold_bag_listen.max.fbx"
+        }
+      }
+    },
+    {
+      "id": "hold_bag_talk",
+      "label": "hold bag talk",
+      "group": "hold",
+      "motions": {
+        "static": {
+          "female": "Assets/Animations/all_animations_max_motextr_static/f_hold_bag_talk.max.fbx"
+        }
+      }
+    },
+    {
+      "id": "idle_angry_01",
+      "label": "idle angry 01",
+      "group": "idle",
+      "motions": {
+        "static": {
+          "female": "Assets/Animations/all_animations_max_motextr_static/f_idle_angry_01.max.fbx",
+          "male": "Assets/Animations/all_animations_max_motextr_static/m_idle_angry_01.max.fbx"
+        }
+      }
+    },
+    {
+      "id": "idle_angry_02",
+      "label": "idle angry 02",
+      "group": "idle",
+      "motions": {
+        "static": {
+          "male": "Assets/Animations/all_animations_max_motextr_static/m_idle_angry_02.max.fbx"
+        },
+        "xyz": {
+          "female": "Assets/Animations/all_animations_max_motextr_xyz/f_idle_angry_02.max.fbx"
+        }
+      }
+    },
+    {
+      "id": "idle_breathe_01",
+      "label": "idle breathe 01",
+      "group": "idle",
+      "motions": {
+        "static": {
+          "female": "Assets/Animations/all_animations_max_motextr_static/f_idle_breathe_01.max.fbx",
+          "male": "Assets/Animations/all_animations_max_motextr_static/m_idle_breathe_01.max.fbx"
+        }
+      }
+    },
+    {
+      "id": "idle_breathe_02",
+      "label": "idle breathe 02",
+      "group": "idle",
+      "motions": {
+        "static": {
+          "female": "Assets/Animations/all_animations_max_motextr_static/f_idle_breathe_02.max.fbx",
+          "male": "Assets/Animations/all_animations_max_motextr_static/m_idle_breathe_02.max.fbx"
+        }
+      }
+    },
+    {
+      "id": "idle_breathe_03",
+      "label": "idle breathe 03",
+      "group": "idle",
+      "motions": {
+        "static": {
+          "female": "Assets/Animations/all_animations_max_motextr_static/f_idle_breathe_03.max.fbx",
+          "male": "Assets/Animations/all_animations_max_motextr_static/m_idle_breathe_03.max.fbx"
+        }
+      }
+    },
+    {
+      "id": "idle_cough_01",
+      "label": "idle cough 01",
+      "group": "idle",
+      "motions": {
+        "static": {
+          "female": "Assets/Animations/all_animations_max_motextr_static/f_idle_cough_01.max.fbx",
+          "male": "Assets/Animations/all_animations_max_motextr_static/m_idle_cough_01.max.fbx"
+        }
+      }
+    },
+    {
+      "id": "idle_cough_02",
+      "label": "idle cough 02",
+      "group": "idle",
+      "motions": {
+        "static": {
+          "female": "Assets/Animations/all_animations_max_motextr_static/f_idle_cough_02.max.fbx",
+          "male": "Assets/Animations/all_animations_max_motextr_static/m_idle_cough_02.max.fbx"
+        }
+      }
+    },
+    {
+      "id": "idle_drunk_01",
+      "label": "idle drunk 01",
+      "group": "idle",
+      "motions": {
+        "static": {
+          "female": "Assets/Animations/all_animations_max_motextr_static/f_idle_drunk_01.max.fbx",
+          "male": "Assets/Animations/all_animations_max_motextr_static/m_idle_drunk_01.max.fbx"
+        }
+      }
+    },
+    {
+      "id": "idle_drunk_02",
+      "label": "idle drunk 02",
+      "group": "idle",
+      "motions": {
+        "static": {
+          "male": "Assets/Animations/all_animations_max_motextr_static/m_idle_drunk_02.max.fbx"
+        }
+      }
+    },
+    {
+      "id": "idle_dust_01",
+      "label": "idle dust 01",
+      "group": "idle",
+      "motions": {
+        "static": {
+          "female": "Assets/Animations/all_animations_max_motextr_static/f_idle_dust_01.max.fbx",
+          "male": "Assets/Animations/all_animations_max_motextr_static/m_idle_dust_01.max.fbx"
+        }
+      }
+    },
+    {
+      "id": "idle_dust_02",
+      "label": "idle dust 02",
+      "group": "idle",
+      "motions": {
+        "static": {
+          "male": "Assets/Animations/all_animations_max_motextr_static/m_idle_dust_02.max.fbx"
+        }
+      }
+    },
+    {
+      "id": "idle_finger nail_01",
+      "label": "idle finger nail 01",
+      "group": "idle",
+      "motions": {
+        "static": {
+          "female": "Assets/Animations/all_animations_max_motextr_static/f_idle_finger nail_01.max.fbx"
+        }
+      }
+    },
+    {
+      "id": "idle_look_around_01",
+      "label": "idle look around 01",
+      "group": "idle",
+      "motions": {
+        "static": {
+          "female": "Assets/Animations/all_animations_max_motextr_static/f_idle_look_around_01.max.fbx",
+          "male": "Assets/Animations/all_animations_max_motextr_static/m_idle_look_around_01.max.fbx"
+        }
+      }
+    },
+    {
+      "id": "idle_look_around_02",
+      "label": "idle look around 02",
+      "group": "idle",
+      "motions": {
+        "static": {
+          "female": "Assets/Animations/all_animations_max_motextr_static/f_idle_look_around_02.max.fbx",
+          "male": "Assets/Animations/all_animations_max_motextr_static/m_idle_look_around_02.max.fbx"
+        }
+      }
+    },
+    {
+      "id": "idle_look_around_03",
+      "label": "idle look around 03",
+      "group": "idle",
+      "motions": {
+        "static": {
+          "female": "Assets/Animations/all_animations_max_motextr_static/f_idle_look_around_03.max.fbx",
+          "male": "Assets/Animations/all_animations_max_motextr_static/m_idle_look_around_03.max.fbx"
+        }
+      }
+    },
+    {
+      "id": "idle_move_01",
+      "label": "idle move 01",
+      "group": "idle",
+      "motions": {
+        "static": {
+          "female": "Assets/Animations/all_animations_max_motextr_static/f_idle_move_01.max.fbx"
+        }
+      }
+    },
+    {
+      "id": "idle_move_leg_01",
+      "label": "idle move leg 01",
+      "group": "idle",
+      "motions": {
+        "static": {
+          "female": "Assets/Animations/all_animations_max_motextr_static/f_idle_move_leg_01.max.fbx"
+        }
+      }
+    },
+    {
+      "id": "idle_nervous_01",
+      "label": "idle nervous 01",
+      "group": "idle",
+      "motions": {
+        "static": {
+          "female": "Assets/Animations/all_animations_max_motextr_static/f_idle_nervous_01.max.fbx",
+          "male": "Assets/Animations/all_animations_max_motextr_static/m_idle_nervous_01.max.fbx"
+        }
+      }
+    },
+    {
+      "id": "idle_nervous_02",
+      "label": "idle nervous 02",
+      "group": "idle",
+      "motions": {
+        "static": {
+          "female": "Assets/Animations/all_animations_max_motextr_static/f_idle_nervous_02.max.fbx",
+          "male": "Assets/Animations/all_animations_max_motextr_static/m_idle_nervous_02.max.fbx"
+        }
+      }
+    },
+    {
+      "id": "idle_nervous_03",
+      "label": "idle nervous 03",
+      "group": "idle",
+      "motions": {
+        "static": {
+          "female": "Assets/Animations/all_animations_max_motextr_static/f_idle_nervous_03.max.fbx",
+          "male": "Assets/Animations/all_animations_max_motextr_static/m_idle_nervous_03.max.fbx"
+        }
+      }
+    },
+    {
+      "id": "idle_neutral_01",
+      "label": "idle neutral 01",
+      "group": "idle",
+      "motions": {
+        "static": {
+          "female": "Assets/Animations/all_animations_max_motextr_static/f_idle_neutral_01.max.fbx",
+          "male": "Assets/Animations/all_animations_max_motextr_static/m_idle_neutral_01.max.fbx"
+        }
+      }
+    },
+    {
+      "id": "idle_neutral_02",
+      "label": "idle neutral 02",
+      "group": "idle",
+      "motions": {
+        "static": {
+          "female": "Assets/Animations/all_animations_max_motextr_static/f_idle_neutral_02.max.fbx",
+          "male": "Assets/Animations/all_animations_max_motextr_static/m_idle_neutral_02.max.fbx"
+        }
+      }
+    },
+    {
+      "id": "idle_neutral_03",
+      "label": "idle neutral 03",
+      "group": "idle",
+      "motions": {
+        "static": {
+          "female": "Assets/Animations/all_animations_max_motextr_static/f_idle_neutral_03.max.fbx",
+          "male": "Assets/Animations/all_animations_max_motextr_static/m_idle_neutral_03.max.fbx"
+        }
+      }
+    },
+    {
+      "id": "idle_neutral_04",
+      "label": "idle neutral 04",
+      "group": "idle",
+      "motions": {
+        "static": {
+          "female": "Assets/Animations/all_animations_max_motextr_static/f_idle_neutral_04.max.fbx",
+          "male": "Assets/Animations/all_animations_max_motextr_static/m_idle_neutral_04.max.fbx"
+        }
+      }
+    },
+    {
+      "id": "idle_neutral_05",
+      "label": "idle neutral 05",
+      "group": "idle",
+      "motions": {
+        "static": {
+          "female": "Assets/Animations/all_animations_max_motextr_static/f_idle_neutral_05.max.fbx",
+          "male": "Assets/Animations/all_animations_max_motextr_static/m_idle_neutral_05.max.fbx"
+        }
+      }
+    },
+    {
+      "id": "idle_neutral_06",
+      "label": "idle neutral 06",
+      "group": "idle",
+      "motions": {
+        "static": {
+          "female": "Assets/Animations/all_animations_max_motextr_static/f_idle_neutral_06.max.fbx",
+          "male": "Assets/Animations/all_animations_max_motextr_static/m_idle_neutral_06.max.fbx"
+        }
+      }
+    },
+    {
+      "id": "idle_neutral_07",
+      "label": "idle neutral 07",
+      "group": "idle",
+      "motions": {
+        "static": {
+          "female": "Assets/Animations/all_animations_max_motextr_static/f_idle_neutral_07.max.fbx",
+          "male": "Assets/Animations/all_animations_max_motextr_static/m_idle_neutral_07.max.fbx"
+        }
+      }
+    },
+    {
+      "id": "idle_neutral_08",
+      "label": "idle neutral 08",
+      "group": "idle",
+      "motions": {
+        "static": {
+          "female": "Assets/Animations/all_animations_max_motextr_static/f_idle_neutral_08.max.fbx",
+          "male": "Assets/Animations/all_animations_max_motextr_static/m_idle_neutral_08.max.fbx"
+        }
+      }
+    },
+    {
+      "id": "idle_neutral_09",
+      "label": "idle neutral 09",
+      "group": "idle",
+      "motions": {
+        "static": {
+          "female": "Assets/Animations/all_animations_max_motextr_static/f_idle_neutral_09.max.fbx",
+          "male": "Assets/Animations/all_animations_max_motextr_static/m_idle_neutral_09.max.fbx"
+        }
+      }
+    },
+    {
+      "id": "idle_roll_head_01",
+      "label": "idle roll head 01",
+      "group": "idle",
+      "motions": {
+        "static": {
+          "female": "Assets/Animations/all_animations_max_motextr_static/f_idle_roll_head_01.max.fbx",
+          "male": "Assets/Animations/all_animations_max_motextr_static/m_idle_roll_head_01.max.fbx"
+        }
+      }
+    },
+    {
+      "id": "idle_roll_head_02",
+      "label": "idle roll head 02",
+      "group": "idle",
+      "motions": {
+        "static": {
+          "female": "Assets/Animations/all_animations_max_motextr_static/f_idle_roll_head_02.max.fbx"
+        }
+      }
+    },
+    {
+      "id": "idle_scratch_head_01",
+      "label": "idle scratch head 01",
+      "group": "idle",
+      "motions": {
+        "static": {
+          "female": "Assets/Animations/all_animations_max_motextr_static/f_idle_scratch_head_01.max.fbx",
+          "male": "Assets/Animations/all_animations_max_motextr_static/m_idle_scratch_head_01.max.fbx"
+        }
+      }
+    },
+    {
+      "id": "idle_scratch_head_02",
+      "label": "idle scratch head 02",
+      "group": "idle",
+      "motions": {
+        "static": {
+          "male": "Assets/Animations/all_animations_max_motextr_static/m_idle_scratch_head_02.max.fbx"
+        }
+      }
+    },
+    {
+      "id": "idle_shake_arms_01",
+      "label": "idle shake arms 01",
+      "group": "idle",
+      "motions": {
+        "static": {
+          "female": "Assets/Animations/all_animations_max_motextr_static/f_idle_shake_arms_01.max.fbx",
+          "male": "Assets/Animations/all_animations_max_motextr_static/m_idle_shake_arms_01.max.fbx"
+        }
+      }
+    },
+    {
+      "id": "idle_shake_leg_01",
+      "label": "idle shake leg 01",
+      "group": "idle",
+      "motions": {
+        "static": {
+          "female": "Assets/Animations/all_animations_max_motextr_static/f_idle_shake_leg_01.max.fbx",
+          "male": "Assets/Animations/all_animations_max_motextr_static/m_idle_shake_leg_01.max.fbx"
+        }
+      }
+    },
+    {
+      "id": "idle_stretch_arms_01",
+      "label": "idle stretch arms 01",
+      "group": "idle",
+      "motions": {
+        "static": {
+          "female": "Assets/Animations/all_animations_max_motextr_static/f_idle_stretch_arms_01.max.fbx",
+          "male": "Assets/Animations/all_animations_max_motextr_static/m_idle_stretch_arms_01.max.fbx"
+        }
+      }
+    },
+    {
+      "id": "idle_touch_face_01",
+      "label": "idle touch face 01",
+      "group": "idle",
+      "motions": {
+        "static": {
+          "female": "Assets/Animations/all_animations_max_motextr_static/f_idle_touch_face_01.max.fbx",
+          "male": "Assets/Animations/all_animations_max_motextr_static/m_idle_touch_face_01.max.fbx"
+        }
+      }
+    },
+    {
+      "id": "idle_touch_face_02",
+      "label": "idle touch face 02",
+      "group": "idle",
+      "motions": {
+        "static": {
+          "male": "Assets/Animations/all_animations_max_motextr_static/m_idle_touch_face_02.max.fbx"
+        }
+      }
+    },
+    {
+      "id": "idle_touch_hair_01",
+      "label": "idle touch hair 01",
+      "group": "idle",
+      "motions": {
+        "static": {
+          "female": "Assets/Animations/all_animations_max_motextr_static/f_idle_touch_hair_01.max.fbx",
+          "male": "Assets/Animations/all_animations_max_motextr_static/m_idle_touch_hair_01.max.fbx"
+        }
+      }
+    },
+    {
+      "id": "idle_waiting_01",
+      "label": "idle waiting 01",
+      "group": "idle",
+      "motions": {
+        "static": {
+          "female": "Assets/Animations/all_animations_max_motextr_static/f_idle_waiting_01.max.fbx",
+          "male": "Assets/Animations/all_animations_max_motextr_static/m_idle_waiting_01.max.fbx"
+        }
+      }
+    },
+    {
+      "id": "idle_waiting_02",
+      "label": "idle waiting 02",
+      "group": "idle",
+      "motions": {
+        "static": {
+          "male": "Assets/Animations/all_animations_max_motextr_static/m_idle_waiting_02.max.fbx"
+        },
+        "xyz": {
+          "female": "Assets/Animations/all_animations_max_motextr_xyz/f_idle_waiting_02.max.fbx"
+        }
+      }
+    },
+    {
+      "id": "idle_yawn_01",
+      "label": "idle yawn 01",
+      "group": "idle",
+      "motions": {
+        "static": {
+          "female": "Assets/Animations/all_animations_max_motextr_static/f_idle_yawn_01.max.fbx",
+          "male": "Assets/Animations/all_animations_max_motextr_static/m_idle_yawn_01.max.fbx"
+        }
+      }
+    },
+    {
+      "id": "invite_sit",
+      "label": "invite sit",
+      "group": "invite",
+      "motions": {
+        "static": {
+          "female": "Assets/Animations/all_animations_max_motextr_static/f_invite_sit.max.fbx",
+          "male": "Assets/Animations/all_animations_max_motextr_static/m_invite_sit.max.fbx"
+        }
+      }
+    },
+    {
+      "id": "knock_door",
+      "label": "knock door",
+      "group": "knock",
+      "motions": {
+        "static": {
+          "female": "Assets/Animations/all_animations_max_motextr_static/f_knock_door.max.fbx",
+          "male": "Assets/Animations/all_animations_max_motextr_static/m_knock_door.max.fbx"
+        }
+      }
+    },
+    {
+      "id": "listen_door",
+      "label": "listen door",
+      "group": "listen",
+      "motions": {
+        "static": {
+          "female": "Assets/Animations/all_animations_max_motextr_static/f_listen_door.max.fbx",
+          "male": "Assets/Animations/all_animations_max_motextr_static/m_listen_door.max.fbx"
+        }
+      }
+    },
+    {
+      "id": "moderate_01",
+      "label": "moderate 01",
+      "group": "moderate",
+      "motions": {
+        "static": {
+          "female": "Assets/Animations/all_animations_max_motextr_static/f_moderate_01.max.fbx",
+          "male": "Assets/Animations/all_animations_max_motextr_static/m_moderate_01.max.fbx"
+        }
+      }
+    },
+    {
+      "id": "moderate_02",
+      "label": "moderate 02",
+      "group": "moderate",
+      "motions": {
+        "static": {
+          "female": "Assets/Animations/all_animations_max_motextr_static/f_moderate_02.max.fbx",
+          "male": "Assets/Animations/all_animations_max_motextr_static/m_moderate_02.max.fbx"
+        }
+      }
+    },
+    {
+      "id": "newspaper_arm_idle",
+      "label": "newspaper arm idle",
+      "group": "newspaper",
+      "motions": {
+        "static": {
+          "female": "Assets/Animations/all_animations_max_motextr_static/f_newspaper_arm_idle.max.fbx",
+          "male": "Assets/Animations/all_animations_max_motextr_static/m_newspaper_arm_idle.max.fbx"
+        }
+      }
+    },
+    {
+      "id": "newspaper_hand_idle",
+      "label": "newspaper hand idle",
+      "group": "newspaper",
+      "motions": {
+        "static": {
+          "female": "Assets/Animations/all_animations_max_motextr_static/f_newspaper_hand_idle.max.fbx",
+          "male": "Assets/Animations/all_animations_max_motextr_static/m_newspaper_hand_idle.max.fbx"
+        }
+      }
+    },
+    {
+      "id": "run_extremefemale",
+      "label": "run extremefemale",
+      "group": "run",
+      "motions": {
+        "xy": {
+          "female": "Assets/Animations/all_animations_max_motextr_xy/f_run_extremefemale.max.fbx"
+        }
+      }
+    },
+    {
+      "id": "run_fast_01",
+      "label": "run fast 01",
+      "group": "run",
+      "motions": {
+        "xy": {
+          "female": "Assets/Animations/all_animations_max_motextr_xy/f_run_fast_01.max.fbx",
+          "male": "Assets/Animations/all_animations_max_motextr_xy/m_run_fast_01.max.fbx"
+        }
+      }
+    },
+    {
+      "id": "run_fast_02",
+      "label": "run fast 02",
+      "group": "run",
+      "motions": {
+        "xy": {
+          "male": "Assets/Animations/all_animations_max_motextr_xy/m_run_fast_02.max.fbx"
+        }
+      }
+    },
+    {
+      "id": "run_funny_01",
+      "label": "run funny 01",
+      "group": "run",
+      "motions": {
+        "xy": {
+          "female": "Assets/Animations/all_animations_max_motextr_xy/f_run_funny_01.max.fbx"
+        }
+      }
+    },
+    {
+      "id": "run_funny_02",
+      "label": "run funny 02",
+      "group": "run",
+      "motions": {
+        "xy": {
+          "female": "Assets/Animations/all_animations_max_motextr_xy/f_run_funny_02.max.fbx",
+          "male": "Assets/Animations/all_animations_max_motextr_xy/m_run_funny_02.max.fbx"
+        }
+      }
+    },
+    {
+      "id": "run_injured",
+      "label": "run injured",
+      "group": "run",
+      "motions": {
+        "xy": {
+          "female": "Assets/Animations/all_animations_max_motextr_xy/f_run_injured.max.fbx",
+          "male": "Assets/Animations/all_animations_max_motextr_xy/m_run_injured.max.fbx"
+        }
+      }
+    },
+    {
+      "id": "run_neutral",
+      "label": "run neutral",
+      "group": "run",
+      "motions": {
+        "xy": {
+          "female": "Assets/Animations/all_animations_max_motextr_xy/f_run_neutral.max.fbx",
+          "male": "Assets/Animations/all_animations_max_motextr_xy/m_run_neutral.max.fbx"
+        }
+      }
+    },
+    {
+      "id": "run_neutral_01",
+      "label": "run neutral 01",
+      "group": "run",
+      "motions": {
+        "xy": {
+          "female": "Assets/Animations/all_animations_max_motextr_xy/f_run_neutral_01.max.fbx",
+          "male": "Assets/Animations/all_animations_max_motextr_xy/m_run_neutral_01.max.fbx"
+        }
+      }
+    },
+    {
+      "id": "run_neutral_02",
+      "label": "run neutral 02",
+      "group": "run",
+      "motions": {
+        "xy": {
+          "female": "Assets/Animations/all_animations_max_motextr_xy/f_run_neutral_02.max.fbx",
+          "male": "Assets/Animations/all_animations_max_motextr_xy/m_run_neutral_02.max.fbx"
+        }
+      }
+    },
+    {
+      "id": "run_slow_01",
+      "label": "run slow 01",
+      "group": "run",
+      "motions": {
+        "xy": {
+          "female": "Assets/Animations/all_animations_max_motextr_xy/f_run_slow_01.max.fbx",
+          "male": "Assets/Animations/all_animations_max_motextr_xy/m_run_slow_01.max.fbx"
+        }
+      }
+    },
+    {
+      "id": "run_slow_02",
+      "label": "run slow 02",
+      "group": "run",
+      "motions": {
+        "xy": {
+          "female": "Assets/Animations/all_animations_max_motextr_xy/f_run_slow_02.max.fbx",
+          "male": "Assets/Animations/all_animations_max_motextr_xy/m_run_slow_02.max.fbx"
+        }
+      }
+    },
+    {
+      "id": "run_start",
+      "label": "run start",
+      "group": "run",
+      "motions": {
+        "xy": {
+          "female": "Assets/Animations/all_animations_max_motextr_xy/f_run_start.max.fbx",
+          "male": "Assets/Animations/all_animations_max_motextr_xy/m_run_start.max.fbx"
+        }
+      }
+    },
+    {
+      "id": "run_stop",
+      "label": "run stop",
+      "group": "run",
+      "motions": {
+        "xy": {
+          "female": "Assets/Animations/all_animations_max_motextr_xy/f_run_stop.max.fbx",
+          "male": "Assets/Animations/all_animations_max_motextr_xy/m_run_stop.max.fbx"
+        }
+      }
+    },
+    {
+      "id": "run_to_walk",
+      "label": "run to walk",
+      "group": "run",
+      "motions": {
+        "xy": {
+          "female": "Assets/Animations/all_animations_max_motextr_xy/f_run_to_walk.max.fbx",
+          "male": "Assets/Animations/all_animations_max_motextr_xy/m_run_to_walk.max.fbx"
+        }
+      }
+    },
+    {
+      "id": "sit_chair_breathe_01",
+      "label": "sit chair breathe 01",
+      "group": "sit",
+      "motions": {
+        "static": {
+          "female": "Assets/Animations/all_animations_max_motextr_static/f_sit_chair_breathe_01.max.fbx",
+          "male": "Assets/Animations/all_animations_max_motextr_static/m_sit_chair_breathe_01.max.fbx"
+        }
+      }
+    },
+    {
+      "id": "sit_chair_gestic_shrug_01",
+      "label": "sit chair gestic shrug 01",
+      "group": "sit",
+      "motions": {
+        "static": {
+          "female": "Assets/Animations/all_animations_max_motextr_static/f_sit_chair_gestic_shrug_01.max.fbx",
+          "male": "Assets/Animations/all_animations_max_motextr_static/m_sit_chair_gestic_shrug_01.max.fbx"
+        }
+      }
+    },
+    {
+      "id": "sit_chair_gestic_shrug_02",
+      "label": "sit chair gestic shrug 02",
+      "group": "sit",
+      "motions": {
+        "static": {
+          "female": "Assets/Animations/all_animations_max_motextr_static/f_sit_chair_gestic_shrug_02.max.fbx",
+          "male": "Assets/Animations/all_animations_max_motextr_static/m_sit_chair_gestic_shrug_02.max.fbx"
+        }
+      }
+    },
+    {
+      "id": "sit_chair_gestic_thoughtful",
+      "label": "sit chair gestic thoughtful",
+      "group": "sit",
+      "motions": {
+        "static": {
+          "female": "Assets/Animations/all_animations_max_motextr_static/f_sit_chair_gestic_thoughtful.max.fbx",
+          "male": "Assets/Animations/all_animations_max_motextr_static/m_sit_chair_gestic_thoughtful.max.fbx"
+        }
+      }
+    },
+    {
+      "id": "sit_chair_idle_cough",
+      "label": "sit chair idle cough",
+      "group": "sit",
+      "motions": {
+        "static": {
+          "female": "Assets/Animations/all_animations_max_motextr_static/f_sit_chair_idle_cough.max.fbx",
+          "male": "Assets/Animations/all_animations_max_motextr_static/m_sit_chair_idle_cough.max.fbx"
+        }
+      }
+    },
+    {
+      "id": "sit_chair_idle_dust",
+      "label": "sit chair idle dust",
+      "group": "sit",
+      "motions": {
+        "static": {
+          "female": "Assets/Animations/all_animations_max_motextr_static/f_sit_chair_idle_dust.max.fbx",
+          "male": "Assets/Animations/all_animations_max_motextr_static/m_sit_chair_idle_dust.max.fbx"
+        }
+      }
+    },
+    {
+      "id": "sit_chair_idle_finger nail",
+      "label": "sit chair idle finger nail",
+      "group": "sit",
+      "motions": {
+        "static": {
+          "female": "Assets/Animations/all_animations_max_motextr_static/f_sit_chair_idle_finger nail.max.fbx"
+        }
+      }
+    },
+    {
+      "id": "sit_chair_idle_look_around",
+      "label": "sit chair idle look around",
+      "group": "sit",
+      "motions": {
+        "static": {
+          "female": "Assets/Animations/all_animations_max_motextr_static/f_sit_chair_idle_look_around.max.fbx",
+          "male": "Assets/Animations/all_animations_max_motextr_static/m_sit_chair_idle_look_around.max.fbx"
+        }
+      }
+    },
+    {
+      "id": "sit_chair_idle_nervous_01",
+      "label": "sit chair idle nervous 01",
+      "group": "sit",
+      "motions": {
+        "static": {
+          "male": "Assets/Animations/all_animations_max_motextr_static/m_sit_chair_idle_nervous_01.max.fbx"
+        }
+      }
+    },
+    {
+      "id": "sit_chair_idle_neutral_01",
+      "label": "sit chair idle neutral 01",
+      "group": "sit",
+      "motions": {
+        "static": {
+          "female": "Assets/Animations/all_animations_max_motextr_static/f_sit_chair_idle_neutral_01.max.fbx",
+          "male": "Assets/Animations/all_animations_max_motextr_static/m_sit_chair_idle_neutral_01.max.fbx"
+        }
+      }
+    },
+    {
+      "id": "sit_chair_idle_neutral_02",
+      "label": "sit chair idle neutral 02",
+      "group": "sit",
+      "motions": {
+        "static": {
+          "female": "Assets/Animations/all_animations_max_motextr_static/f_sit_chair_idle_neutral_02.max.fbx",
+          "male": "Assets/Animations/all_animations_max_motextr_static/m_sit_chair_idle_neutral_02.max.fbx"
+        }
+      }
+    },
+    {
+      "id": "sit_chair_idle_relaxed_01",
+      "label": "sit chair idle relaxed 01",
+      "group": "sit",
+      "motions": {
+        "static": {
+          "female": "Assets/Animations/all_animations_max_motextr_static/f_sit_chair_idle_relaxed_01.max.fbx",
+          "male": "Assets/Animations/all_animations_max_motextr_static/m_sit_chair_idle_relaxed_01.max.fbx"
+        }
+      }
+    },
+    {
+      "id": "sit_chair_idle_roll_head",
+      "label": "sit chair idle roll head",
+      "group": "sit",
+      "motions": {
+        "static": {
+          "female": "Assets/Animations/all_animations_max_motextr_static/f_sit_chair_idle_roll_head.max.fbx",
+          "male": "Assets/Animations/all_animations_max_motextr_static/m_sit_chair_idle_roll_head.max.fbx"
+        }
+      }
+    },
+    {
+      "id": "sit_chair_idle_scratch_head",
+      "label": "sit chair idle scratch head",
+      "group": "sit",
+      "motions": {
+        "static": {
+          "female": "Assets/Animations/all_animations_max_motextr_static/f_sit_chair_idle_scratch_head.max.fbx",
+          "male": "Assets/Animations/all_animations_max_motextr_static/m_sit_chair_idle_scratch_head.max.fbx"
+        }
+      }
+    },
+    {
+      "id": "sit_chair_idle_touch_face",
+      "label": "sit chair idle touch face",
+      "group": "sit",
+      "motions": {
+        "static": {
+          "female": "Assets/Animations/all_animations_max_motextr_static/f_sit_chair_idle_touch_face.max.fbx",
+          "male": "Assets/Animations/all_animations_max_motextr_static/m_sit_chair_idle_touch_face.max.fbx"
+        }
+      }
+    },
+    {
+      "id": "sit_chair_idle_touch_hair",
+      "label": "sit chair idle touch hair",
+      "group": "sit",
+      "motions": {
+        "static": {
+          "female": "Assets/Animations/all_animations_max_motextr_static/f_sit_chair_idle_touch_hair.max.fbx",
+          "male": "Assets/Animations/all_animations_max_motextr_static/m_sit_chair_idle_touch_hair.max.fbx"
+        }
+      }
+    },
+    {
+      "id": "sit_chair_idle_waiting_01",
+      "label": "sit chair idle waiting 01",
+      "group": "sit",
+      "motions": {
+        "static": {
+          "female": "Assets/Animations/all_animations_max_motextr_static/f_sit_chair_idle_waiting_01.max.fbx",
+          "male": "Assets/Animations/all_animations_max_motextr_static/m_sit_chair_idle_waiting_01.max.fbx"
+        }
+      }
+    },
+    {
+      "id": "sit_chair_idle_waiting_02",
+      "label": "sit chair idle waiting 02",
+      "group": "sit",
+      "motions": {
+        "static": {
+          "female": "Assets/Animations/all_animations_max_motextr_static/f_sit_chair_idle_waiting_02.max.fbx",
+          "male": "Assets/Animations/all_animations_max_motextr_static/m_sit_chair_idle_waiting_02.max.fbx"
+        }
+      }
+    },
+    {
+      "id": "sit_chair_idle_yawn",
+      "label": "sit chair idle yawn",
+      "group": "sit",
+      "motions": {
+        "static": {
+          "female": "Assets/Animations/all_animations_max_motextr_static/f_sit_chair_idle_yawn.max.fbx",
+          "male": "Assets/Animations/all_animations_max_motextr_static/m_sit_chair_idle_yawn.max.fbx"
+        }
+      }
+    },
+    {
+      "id": "sit_down_chair_01",
+      "label": "sit down chair 01",
+      "group": "sit",
+      "motions": {
+        "xyz": {
+          "female": "Assets/Animations/all_animations_max_motextr_xyz/f_sit_down_chair_01.max.fbx",
+          "male": "Assets/Animations/all_animations_max_motextr_xyz/m_sit_down_chair_01.max.fbx"
+        }
+      }
+    },
+    {
+      "id": "sit_down_chair_02",
+      "label": "sit down chair 02",
+      "group": "sit",
+      "motions": {
+        "xyz": {
+          "female": "Assets/Animations/all_animations_max_motextr_xyz/f_sit_down_chair_02.max.fbx",
+          "male": "Assets/Animations/all_animations_max_motextr_xyz/m_sit_down_chair_02.max.fbx"
+        }
+      }
+    },
+    {
+      "id": "sit_down_chair_left",
+      "label": "sit down chair left",
+      "group": "sit",
+      "motions": {
+        "xyz": {
+          "female": "Assets/Animations/all_animations_max_motextr_xyz/f_sit_down_chair_left.max.fbx",
+          "male": "Assets/Animations/all_animations_max_motextr_xyz/m_sit_down_chair_left.max.fbx"
+        }
+      }
+    },
+    {
+      "id": "sit_down_chair_right",
+      "label": "sit down chair right",
+      "group": "sit",
+      "motions": {
+        "xyz": {
+          "female": "Assets/Animations/all_animations_max_motextr_xyz/f_sit_down_chair_right.max.fbx",
+          "male": "Assets/Animations/all_animations_max_motextr_xyz/m_sit_down_chair_right.max.fbx"
+        }
+      }
+    },
+    {
+      "id": "sit_down_table_left",
+      "label": "sit down table left",
+      "group": "sit",
+      "motions": {
+        "xyz": {
+          "female": "Assets/Animations/all_animations_max_motextr_xyz/f_sit_down_table_left.max.fbx",
+          "male": "Assets/Animations/all_animations_max_motextr_xyz/m_sit_down_table_left.max.fbx"
+        }
+      }
+    },
+    {
+      "id": "sit_down_table_right",
+      "label": "sit down table right",
+      "group": "sit",
+      "motions": {
+        "xyz": {
+          "female": "Assets/Animations/all_animations_max_motextr_xyz/f_sit_down_table_right.max.fbx",
+          "male": "Assets/Animations/all_animations_max_motextr_xyz/m_sit_down_table_right.max.fbx"
+        }
+      }
+    },
+    {
+      "id": "sit_stand_up_chair_01",
+      "label": "sit stand up chair 01",
+      "group": "sit",
+      "motions": {
+        "xyz": {
+          "female": "Assets/Animations/all_animations_max_motextr_xyz/f_sit_stand_up_chair_01.max.fbx",
+          "male": "Assets/Animations/all_animations_max_motextr_xyz/m_sit_stand_up_chair_01.max.fbx"
+        }
+      }
+    },
+    {
+      "id": "sit_stand_up_chair_left",
+      "label": "sit stand up chair left",
+      "group": "sit",
+      "motions": {
+        "xyz": {
+          "female": "Assets/Animations/all_animations_max_motextr_xyz/f_sit_stand_up_chair_left.max.fbx",
+          "male": "Assets/Animations/all_animations_max_motextr_xyz/m_sit_stand_up_chair_left.max.fbx"
+        }
+      }
+    },
+    {
+      "id": "sit_stand_up_chair_right",
+      "label": "sit stand up chair right",
+      "group": "sit",
+      "motions": {
+        "xyz": {
+          "female": "Assets/Animations/all_animations_max_motextr_xyz/f_sit_stand_up_chair_right.max.fbx",
+          "male": "Assets/Animations/all_animations_max_motextr_xyz/m_sit_stand_up_chair_right.max.fbx"
+        }
+      }
+    },
+    {
+      "id": "sit_stand_up_table_left",
+      "label": "sit stand up table left",
+      "group": "sit",
+      "motions": {
+        "xyz": {
+          "female": "Assets/Animations/all_animations_max_motextr_xyz/f_sit_stand_up_table_left.max.fbx",
+          "male": "Assets/Animations/all_animations_max_motextr_xyz/m_sit_stand_up_table_left.max.fbx"
+        }
+      }
+    },
+    {
+      "id": "sit_stand_up_table_right",
+      "label": "sit stand up table right",
+      "group": "sit",
+      "motions": {
+        "xyz": {
+          "female": "Assets/Animations/all_animations_max_motextr_xyz/f_sit_stand_up_table_right.max.fbx",
+          "male": "Assets/Animations/all_animations_max_motextr_xyz/m_sit_stand_up_table_right.max.fbx"
+        }
+      }
+    },
+    {
+      "id": "sit_table_breathe_01",
+      "label": "sit table breathe 01",
+      "group": "sit",
+      "motions": {
+        "static": {
+          "female": "Assets/Animations/all_animations_max_motextr_static/f_sit_table_breathe_01.max.fbx",
+          "male": "Assets/Animations/all_animations_max_motextr_static/m_sit_table_breathe_01.max.fbx"
+        }
+      }
+    },
+    {
+      "id": "sit_table_gestic_shrug_01",
+      "label": "sit table gestic shrug 01",
+      "group": "sit",
+      "motions": {
+        "static": {
+          "female": "Assets/Animations/all_animations_max_motextr_static/f_sit_table_gestic_shrug_01.max.fbx",
+          "male": "Assets/Animations/all_animations_max_motextr_static/m_sit_table_gestic_shrug_01.max.fbx"
+        }
+      }
+    },
+    {
+      "id": "sit_table_gestic_shrug_02",
+      "label": "sit table gestic shrug 02",
+      "group": "sit",
+      "motions": {
+        "static": {
+          "female": "Assets/Animations/all_animations_max_motextr_static/f_sit_table_gestic_shrug_02.max.fbx",
+          "male": "Assets/Animations/all_animations_max_motextr_static/m_sit_table_gestic_shrug_02.max.fbx"
+        }
+      }
+    },
+    {
+      "id": "sit_table_gestic_thoughtful",
+      "label": "sit table gestic thoughtful",
+      "group": "sit",
+      "motions": {
+        "static": {
+          "female": "Assets/Animations/all_animations_max_motextr_static/f_sit_table_gestic_thoughtful.max.fbx",
+          "male": "Assets/Animations/all_animations_max_motextr_static/m_sit_table_gestic_thoughtful.max.fbx"
+        }
+      }
+    },
+    {
+      "id": "sit_table_idle_cough",
+      "label": "sit table idle cough",
+      "group": "sit",
+      "motions": {
+        "static": {
+          "female": "Assets/Animations/all_animations_max_motextr_static/f_sit_table_idle_cough.max.fbx",
+          "male": "Assets/Animations/all_animations_max_motextr_static/m_sit_table_idle_cough.max.fbx"
+        }
+      }
+    },
+    {
+      "id": "sit_table_idle_dust",
+      "label": "sit table idle dust",
+      "group": "sit",
+      "motions": {
+        "static": {
+          "female": "Assets/Animations/all_animations_max_motextr_static/f_sit_table_idle_dust.max.fbx",
+          "male": "Assets/Animations/all_animations_max_motextr_static/m_sit_table_idle_dust.max.fbx"
+        }
+      }
+    },
+    {
+      "id": "sit_table_idle_look_around",
+      "label": "sit table idle look around",
+      "group": "sit",
+      "motions": {
+        "static": {
+          "female": "Assets/Animations/all_animations_max_motextr_static/f_sit_table_idle_look_around.max.fbx",
+          "male": "Assets/Animations/all_animations_max_motextr_static/m_sit_table_idle_look_around.max.fbx"
+        }
+      }
+    },
+    {
+      "id": "sit_table_idle_nervous_01",
+      "label": "sit table idle nervous 01",
+      "group": "sit",
+      "motions": {
+        "static": {
+          "male": "Assets/Animations/all_animations_max_motextr_static/m_sit_table_idle_nervous_01.max.fbx"
+        }
+      }
+    },
+    {
+      "id": "sit_table_idle_neutral_01",
+      "label": "sit table idle neutral 01",
+      "group": "sit",
+      "motions": {
+        "static": {
+          "female": "Assets/Animations/all_animations_max_motextr_static/f_sit_table_idle_neutral_01.max.fbx",
+          "male": "Assets/Animations/all_animations_max_motextr_static/m_sit_table_idle_neutral_01.max.fbx"
+        }
+      }
+    },
+    {
+      "id": "sit_table_idle_neutral_02",
+      "label": "sit table idle neutral 02",
+      "group": "sit",
+      "motions": {
+        "static": {
+          "female": "Assets/Animations/all_animations_max_motextr_static/f_sit_table_idle_neutral_02.max.fbx",
+          "male": "Assets/Animations/all_animations_max_motextr_static/m_sit_table_idle_neutral_02.max.fbx"
+        }
+      }
+    },
+    {
+      "id": "sit_table_idle_relaxed_01",
+      "label": "sit table idle relaxed 01",
+      "group": "sit",
+      "motions": {
+        "static": {
+          "female": "Assets/Animations/all_animations_max_motextr_static/f_sit_table_idle_relaxed_01.max.fbx",
+          "male": "Assets/Animations/all_animations_max_motextr_static/m_sit_table_idle_relaxed_01.max.fbx"
+        }
+      }
+    },
+    {
+      "id": "sit_table_idle_roll_head",
+      "label": "sit table idle roll head",
+      "group": "sit",
+      "motions": {
+        "static": {
+          "female": "Assets/Animations/all_animations_max_motextr_static/f_sit_table_idle_roll_head.max.fbx",
+          "male": "Assets/Animations/all_animations_max_motextr_static/m_sit_table_idle_roll_head.max.fbx"
+        }
+      }
+    },
+    {
+      "id": "sit_table_idle_scratch_head",
+      "label": "sit table idle scratch head",
+      "group": "sit",
+      "motions": {
+        "static": {
+          "female": "Assets/Animations/all_animations_max_motextr_static/f_sit_table_idle_scratch_head.max.fbx",
+          "male": "Assets/Animations/all_animations_max_motextr_static/m_sit_table_idle_scratch_head.max.fbx"
+        }
+      }
+    },
+    {
+      "id": "sit_table_idle_stretch arms",
+      "label": "sit table idle stretch arms",
+      "group": "sit",
+      "motions": {
+        "static": {
+          "female": "Assets/Animations/all_animations_max_motextr_static/f_sit_table_idle_stretch arms.max.fbx"
+        }
+      }
+    },
+    {
+      "id": "sit_table_idle_touch_face",
+      "label": "sit table idle touch face",
+      "group": "sit",
+      "motions": {
+        "static": {
+          "female": "Assets/Animations/all_animations_max_motextr_static/f_sit_table_idle_touch_face.max.fbx",
+          "male": "Assets/Animations/all_animations_max_motextr_static/m_sit_table_idle_touch_face.max.fbx"
+        }
+      }
+    },
+    {
+      "id": "sit_table_idle_touch_hair",
+      "label": "sit table idle touch hair",
+      "group": "sit",
+      "motions": {
+        "static": {
+          "female": "Assets/Animations/all_animations_max_motextr_static/f_sit_table_idle_touch_hair.max.fbx",
+          "male": "Assets/Animations/all_animations_max_motextr_static/m_sit_table_idle_touch_hair.max.fbx"
+        }
+      }
+    },
+    {
+      "id": "sit_table_idle_waiting_01",
+      "label": "sit table idle waiting 01",
+      "group": "sit",
+      "motions": {
+        "static": {
+          "female": "Assets/Animations/all_animations_max_motextr_static/f_sit_table_idle_waiting_01.max.fbx",
+          "male": "Assets/Animations/all_animations_max_motextr_static/m_sit_table_idle_waiting_01.max.fbx"
+        }
+      }
+    },
+    {
+      "id": "sit_table_idle_yawn",
+      "label": "sit table idle yawn",
+      "group": "sit",
+      "motions": {
+        "static": {
+          "female": "Assets/Animations/all_animations_max_motextr_static/f_sit_table_idle_yawn.max.fbx",
+          "male": "Assets/Animations/all_animations_max_motextr_static/m_sit_table_idle_yawn.max.fbx"
+        }
+      }
+    },
+    {
+      "id": "social loafing_left",
+      "label": "social loafing left",
+      "group": "social loafing",
+      "motions": {
+        "xyz": {
+          "female": "Assets/Animations/all_animations_max_motextr_xyz/f_social loafing_left.max.fbx"
+        }
+      }
+    },
+    {
+      "id": "social loafing_right",
+      "label": "social loafing right",
+      "group": "social loafing",
+      "motions": {
+        "xyz": {
+          "female": "Assets/Animations/all_animations_max_motextr_xyz/f_social loafing_right.max.fbx"
+        }
+      }
+    },
+    {
+      "id": "take_picture",
+      "label": "take picture",
+      "group": "take",
+      "motions": {
+        "static": {
+          "female": "Assets/Animations/all_animations_max_motextr_static/f_take_picture.max.fbx",
+          "male": "Assets/Animations/all_animations_max_motextr_static/m_take_picture.max.fbx"
+        }
+      }
+    },
+    {
+      "id": "trolley_idle",
+      "label": "trolley idle",
+      "group": "trolley",
+      "motions": {
+        "static": {
+          "female": "Assets/Animations/all_animations_max_motextr_static/f_trolley_idle.max.fbx",
+          "male": "Assets/Animations/all_animations_max_motextr_static/m_trolley_idle.max.fbx"
+        }
+      }
+    },
+    {
+      "id": "trolley_listen",
+      "label": "trolley listen",
+      "group": "trolley",
+      "motions": {
+        "static": {
+          "female": "Assets/Animations/all_animations_max_motextr_static/f_trolley_listen.max.fbx"
+        }
+      }
+    },
+    {
+      "id": "trolley_talk",
+      "label": "trolley talk",
+      "group": "trolley",
+      "motions": {
+        "static": {
+          "female": "Assets/Animations/all_animations_max_motextr_static/f_trolley_talk.max.fbx"
+        }
+      }
+    },
+    {
+      "id": "try_door_inwards",
+      "label": "try door inwards",
+      "group": "try",
+      "motions": {
+        "static": {
+          "female": "Assets/Animations/all_animations_max_motextr_static/f_try_door_inwards.max.fbx",
+          "male": "Assets/Animations/all_animations_max_motextr_static/m_try_door_inwards.max.fbx"
+        }
+      }
+    },
+    {
+      "id": "try_door_outwards",
+      "label": "try door outwards",
+      "group": "try",
+      "motions": {
+        "static": {
+          "female": "Assets/Animations/all_animations_max_motextr_static/f_try_door_outwards.max.fbx",
+          "male": "Assets/Animations/all_animations_max_motextr_static/m_try_door_outwards.max.fbx"
+        }
+      }
+    },
+    {
+      "id": "turn_left_120",
+      "label": "turn left 120",
+      "group": "turn",
+      "motions": {
+        "xyz": {
+          "female": "Assets/Animations/all_animations_max_motextr_xyz/f_turn_left_120.max.fbx",
+          "male": "Assets/Animations/all_animations_max_motextr_xyz/m_turn_left_120.max.fbx"
+        }
+      }
+    },
+    {
+      "id": "turn_left_120_to_walk",
+      "label": "turn left 120 to walk",
+      "group": "turn",
+      "motions": {
+        "xyz": {
+          "female": "Assets/Animations/all_animations_max_motextr_xyz/f_turn_left_120_to_walk.max.fbx",
+          "male": "Assets/Animations/all_animations_max_motextr_xyz/m_turn_left_120_to_walk.max.fbx"
+        }
+      }
+    },
+    {
+      "id": "turn_left_180",
+      "label": "turn left 180",
+      "group": "turn",
+      "motions": {
+        "xyz": {
+          "female": "Assets/Animations/all_animations_max_motextr_xyz/f_turn_left_180.max.fbx",
+          "male": "Assets/Animations/all_animations_max_motextr_xyz/m_turn_left_180.max.fbx"
+        }
+      }
+    },
+    {
+      "id": "turn_left_180_to_walk",
+      "label": "turn left 180 to walk",
+      "group": "turn",
+      "motions": {
+        "xyz": {
+          "female": "Assets/Animations/all_animations_max_motextr_xyz/f_turn_left_180_to_walk.max.fbx",
+          "male": "Assets/Animations/all_animations_max_motextr_xyz/m_turn_left_180_to_walk.max.fbx"
+        }
+      }
+    },
+    {
+      "id": "turn_left_60",
+      "label": "turn left 60",
+      "group": "turn",
+      "motions": {
+        "xyz": {
+          "female": "Assets/Animations/all_animations_max_motextr_xyz/f_turn_left_60.max.fbx",
+          "male": "Assets/Animations/all_animations_max_motextr_xyz/m_turn_left_60.max.fbx"
+        }
+      }
+    },
+    {
+      "id": "turn_left_60_to_walk",
+      "label": "turn left 60 to walk",
+      "group": "turn",
+      "motions": {
+        "xyz": {
+          "female": "Assets/Animations/all_animations_max_motextr_xyz/f_turn_left_60_to_walk.max.fbx",
+          "male": "Assets/Animations/all_animations_max_motextr_xyz/m_turn_left_60_to_walk.max.fbx"
+        }
+      }
+    },
+    {
+      "id": "turn_left_90",
+      "label": "turn left 90",
+      "group": "turn",
+      "motions": {
+        "xyz": {
+          "female": "Assets/Animations/all_animations_max_motextr_xyz/f_turn_left_90.max.fbx",
+          "male": "Assets/Animations/all_animations_max_motextr_xyz/m_turn_left_90.max.fbx"
+        }
+      }
+    },
+    {
+      "id": "turn_right_120",
+      "label": "turn right 120",
+      "group": "turn",
+      "motions": {
+        "xyz": {
+          "female": "Assets/Animations/all_animations_max_motextr_xyz/f_turn_right_120.max.fbx",
+          "male": "Assets/Animations/all_animations_max_motextr_xyz/m_turn_right_120.max.fbx"
+        }
+      }
+    },
+    {
+      "id": "turn_right_120_to_walk",
+      "label": "turn right 120 to walk",
+      "group": "turn",
+      "motions": {
+        "xyz": {
+          "female": "Assets/Animations/all_animations_max_motextr_xyz/f_turn_right_120_to_walk.max.fbx",
+          "male": "Assets/Animations/all_animations_max_motextr_xyz/m_turn_right_120_to_walk.max.fbx"
+        }
+      }
+    },
+    {
+      "id": "turn_right_180",
+      "label": "turn right 180",
+      "group": "turn",
+      "motions": {
+        "xyz": {
+          "female": "Assets/Animations/all_animations_max_motextr_xyz/f_turn_right_180.max.fbx",
+          "male": "Assets/Animations/all_animations_max_motextr_xyz/m_turn_right_180.max.fbx"
+        }
+      }
+    },
+    {
+      "id": "turn_right_180_to_walk",
+      "label": "turn right 180 to walk",
+      "group": "turn",
+      "motions": {
+        "xyz": {
+          "female": "Assets/Animations/all_animations_max_motextr_xyz/f_turn_right_180_to_walk.max.fbx",
+          "male": "Assets/Animations/all_animations_max_motextr_xyz/m_turn_right_180_to_walk.max.fbx"
+        }
+      }
+    },
+    {
+      "id": "turn_right_60",
+      "label": "turn right 60",
+      "group": "turn",
+      "motions": {
+        "xyz": {
+          "female": "Assets/Animations/all_animations_max_motextr_xyz/f_turn_right_60.max.fbx",
+          "male": "Assets/Animations/all_animations_max_motextr_xyz/m_turn_right_60.max.fbx"
+        }
+      }
+    },
+    {
+      "id": "turn_right_60_to_walk",
+      "label": "turn right 60 to walk",
+      "group": "turn",
+      "motions": {
+        "xyz": {
+          "female": "Assets/Animations/all_animations_max_motextr_xyz/f_turn_right_60_to_walk.max.fbx",
+          "male": "Assets/Animations/all_animations_max_motextr_xyz/m_turn_right_60_to_walk.max.fbx"
+        }
+      }
+    },
+    {
+      "id": "turn_right_90",
+      "label": "turn right 90",
+      "group": "turn",
+      "motions": {
+        "xyz": {
+          "female": "Assets/Animations/all_animations_max_motextr_xyz/f_turn_right_90.max.fbx",
+          "male": "Assets/Animations/all_animations_max_motextr_xyz/m_turn_right_90.max.fbx"
+        }
+      }
+    },
+    {
+      "id": "umbrella_idle_01",
+      "label": "umbrella idle 01",
+      "group": "umbrella",
+      "motions": {
+        "static": {
+          "female": "Assets/Animations/all_animations_max_motextr_static/f_umbrella_idle_01.max.fbx",
+          "male": "Assets/Animations/all_animations_max_motextr_static/m_umbrella_idle_01.max.fbx"
+        }
+      }
+    },
+    {
+      "id": "umbrella_idle_02",
+      "label": "umbrella idle 02",
+      "group": "umbrella",
+      "motions": {
+        "static": {
+          "female": "Assets/Animations/all_animations_max_motextr_static/f_umbrella_idle_02.max.fbx",
+          "male": "Assets/Animations/all_animations_max_motextr_static/m_umbrella_idle_02.max.fbx"
+        }
+      }
+    },
+    {
+      "id": "umbrella_listen_01",
+      "label": "umbrella listen 01",
+      "group": "umbrella",
+      "motions": {
+        "static": {
+          "female": "Assets/Animations/all_animations_max_motextr_static/f_umbrella_listen_01.max.fbx"
+        }
+      }
+    },
+    {
+      "id": "umbrella_talk_01",
+      "label": "umbrella talk 01",
+      "group": "umbrella",
+      "motions": {
+        "static": {
+          "female": "Assets/Animations/all_animations_max_motextr_static/f_umbrella_talk_01.max.fbx"
+        }
+      }
+    },
+    {
+      "id": "waiting_walk",
+      "label": "waiting walk",
+      "group": "waiting",
+      "motions": {
+        "xyz": {
+          "female": "Assets/Animations/all_animations_max_motextr_xyz/f_waiting_walk.max.fbx",
+          "male": "Assets/Animations/all_animations_max_motextr_xyz/m_waiting_walk.max.fbx"
+        }
+      }
+    },
+    {
+      "id": "walk_bruised",
+      "label": "walk bruised",
+      "group": "walk",
+      "motions": {
+        "xy": {
+          "female": "Assets/Animations/all_animations_max_motextr_xy/f_walk_bruised.max.fbx",
+          "male": "Assets/Animations/all_animations_max_motextr_xy/m_walk_bruised.max.fbx"
+        }
+      }
+    },
+    {
+      "id": "walk_cool_01",
+      "label": "walk cool 01",
+      "group": "walk",
+      "motions": {
+        "xy": {
+          "female": "Assets/Animations/all_animations_max_motextr_xy/f_walk_cool_01.max.fbx",
+          "male": "Assets/Animations/all_animations_max_motextr_xy/m_walk_cool_01.max.fbx"
+        }
+      }
+    },
+    {
+      "id": "walk_cool_02",
+      "label": "walk cool 02",
+      "group": "walk",
+      "motions": {
+        "xy": {
+          "female": "Assets/Animations/all_animations_max_motextr_xy/f_walk_cool_02.max.fbx",
+          "male": "Assets/Animations/all_animations_max_motextr_xy/m_walk_cool_02.max.fbx"
+        }
+      }
+    },
+    {
+      "id": "walk_drunk",
+      "label": "walk drunk",
+      "group": "walk",
+      "motions": {
+        "xy": {
+          "female": "Assets/Animations/all_animations_max_motextr_xy/f_walk_drunk.max.fbx",
+          "male": "Assets/Animations/all_animations_max_motextr_xy/m_walk_drunk.max.fbx"
+        }
+      }
+    },
+    {
+      "id": "walk_extremefemale",
+      "label": "walk extremefemale",
+      "group": "walk",
+      "motions": {
+        "xy": {
+          "female": "Assets/Animations/all_animations_max_motextr_xy/f_walk_extremefemale.max.fbx"
+        }
+      }
+    },
+    {
+      "id": "walk_fast_01",
+      "label": "walk fast 01",
+      "group": "walk",
+      "motions": {
+        "xy": {
+          "female": "Assets/Animations/all_animations_max_motextr_xy/f_walk_fast_01.max.fbx",
+          "male": "Assets/Animations/all_animations_max_motextr_xy/m_walk_fast_01.max.fbx"
+        }
+      }
+    },
+    {
+      "id": "walk_fast_02",
+      "label": "walk fast 02",
+      "group": "walk",
+      "motions": {
+        "xy": {
+          "female": "Assets/Animations/all_animations_max_motextr_xy/f_walk_fast_02.max.fbx",
+          "male": "Assets/Animations/all_animations_max_motextr_xy/m_walk_fast_02.max.fbx"
+        }
+      }
+    },
+    {
+      "id": "walk_fast_03",
+      "label": "walk fast 03",
+      "group": "walk",
+      "motions": {
+        "xy": {
+          "female": "Assets/Animations/all_animations_max_motextr_xy/f_walk_fast_03.max.fbx"
+        }
+      }
+    },
+    {
+      "id": "walk_funny_01",
+      "label": "walk funny 01",
+      "group": "walk",
+      "motions": {
+        "xy": {
+          "female": "Assets/Animations/all_animations_max_motextr_xy/f_walk_funny_01.max.fbx",
+          "male": "Assets/Animations/all_animations_max_motextr_xy/m_walk_funny_01.max.fbx"
+        }
+      }
+    },
+    {
+      "id": "walk_funny_02",
+      "label": "walk funny 02",
+      "group": "walk",
+      "motions": {
+        "xy": {
+          "female": "Assets/Animations/all_animations_max_motextr_xy/f_walk_funny_02.max.fbx",
+          "male": "Assets/Animations/all_animations_max_motextr_xy/m_walk_funny_02.max.fbx"
+        }
+      }
+    },
+    {
+      "id": "walk_injured",
+      "label": "walk injured",
+      "group": "walk",
+      "motions": {
+        "xy": {
+          "female": "Assets/Animations/all_animations_max_motextr_xy/f_walk_injured.max.fbx"
+        }
+      }
+    },
+    {
+      "id": "walk_neutral",
+      "label": "walk neutral",
+      "group": "walk",
+      "motions": {
+        "xy": {
+          "female": "Assets/Animations/all_animations_max_motextr_xy/f_walk_neutral.max.fbx",
+          "male": "Assets/Animations/all_animations_max_motextr_xy/m_walk_neutral.max.fbx"
+        }
+      }
+    },
+    {
+      "id": "walk_neutral_01",
+      "label": "walk neutral 01",
+      "group": "walk",
+      "motions": {
+        "xy": {
+          "female": "Assets/Animations/all_animations_max_motextr_xy/f_walk_neutral_01.max.fbx",
+          "male": "Assets/Animations/all_animations_max_motextr_xy/m_walk_neutral_01.max.fbx"
+        }
+      }
+    },
+    {
+      "id": "walk_neutral_02",
+      "label": "walk neutral 02",
+      "group": "walk",
+      "motions": {
+        "xy": {
+          "female": "Assets/Animations/all_animations_max_motextr_xy/f_walk_neutral_02.max.fbx",
+          "male": "Assets/Animations/all_animations_max_motextr_xy/m_walk_neutral_02.max.fbx"
+        }
+      }
+    },
+    {
+      "id": "walk_neutral_03",
+      "label": "walk neutral 03",
+      "group": "walk",
+      "motions": {
+        "xy": {
+          "female": "Assets/Animations/all_animations_max_motextr_xy/f_walk_neutral_03.max.fbx",
+          "male": "Assets/Animations/all_animations_max_motextr_xy/m_walk_neutral_03.max.fbx"
+        }
+      }
+    },
+    {
+      "id": "walk_neutral_04",
+      "label": "walk neutral 04",
+      "group": "walk",
+      "motions": {
+        "xy": {
+          "female": "Assets/Animations/all_animations_max_motextr_xy/f_walk_neutral_04.max.fbx"
+        }
+      }
+    },
+    {
+      "id": "walk_self-assured",
+      "label": "walk self-assured",
+      "group": "walk",
+      "motions": {
+        "xy": {
+          "female": "Assets/Animations/all_animations_max_motextr_xy/f_walk_self-assured.max.fbx"
+        }
+      }
+    },
+    {
+      "id": "walk_slow_01",
+      "label": "walk slow 01",
+      "group": "walk",
+      "motions": {
+        "xy": {
+          "female": "Assets/Animations/all_animations_max_motextr_xy/f_walk_slow_01.max.fbx",
+          "male": "Assets/Animations/all_animations_max_motextr_xy/m_walk_slow_01.max.fbx"
+        }
+      }
+    },
+    {
+      "id": "walk_slow_02",
+      "label": "walk slow 02",
+      "group": "walk",
+      "motions": {
+        "xy": {
+          "female": "Assets/Animations/all_animations_max_motextr_xy/f_walk_slow_02.max.fbx",
+          "male": "Assets/Animations/all_animations_max_motextr_xy/m_walk_slow_02.max.fbx"
+        }
+      }
+    },
+    {
+      "id": "walk_start",
+      "label": "walk start",
+      "group": "walk",
+      "motions": {
+        "xy": {
+          "female": "Assets/Animations/all_animations_max_motextr_xy/f_walk_start.max.fbx",
+          "male": "Assets/Animations/all_animations_max_motextr_xy/m_walk_start.max.fbx"
+        }
+      }
+    },
+    {
+      "id": "walk_stop",
+      "label": "walk stop",
+      "group": "walk",
+      "motions": {
+        "xy": {
+          "female": "Assets/Animations/all_animations_max_motextr_xy/f_walk_stop.max.fbx",
+          "male": "Assets/Animations/all_animations_max_motextr_xy/m_walk_stop.max.fbx"
+        }
+      }
+    },
+    {
+      "id": "walk_stroll_01",
+      "label": "walk stroll 01",
+      "group": "walk",
+      "motions": {
+        "xy": {
+          "female": "Assets/Animations/all_animations_max_motextr_xy/f_walk_stroll_01.max.fbx",
+          "male": "Assets/Animations/all_animations_max_motextr_xy/m_walk_stroll_01.max.fbx"
+        }
+      }
+    },
+    {
+      "id": "walk_stroll_02",
+      "label": "walk stroll 02",
+      "group": "walk",
+      "motions": {
+        "xy": {
+          "female": "Assets/Animations/all_animations_max_motextr_xy/f_walk_stroll_02.max.fbx",
+          "male": "Assets/Animations/all_animations_max_motextr_xy/m_walk_stroll_02.max.fbx"
+        }
+      }
+    },
+    {
+      "id": "walk_to_run",
+      "label": "walk to run",
+      "group": "walk",
+      "motions": {
+        "xy": {
+          "female": "Assets/Animations/all_animations_max_motextr_xy/f_walk_to_run.max.fbx",
+          "male": "Assets/Animations/all_animations_max_motextr_xy/m_walk_to_run.max.fbx"
+        }
+      }
+    },
+    {
+      "id": "wave_01",
+      "label": "wave 01",
+      "group": "wave",
+      "motions": {
+        "static": {
+          "female": "Assets/Animations/all_animations_max_motextr_static/f_wave_01.max.fbx",
+          "male": "Assets/Animations/all_animations_max_motextr_static/m_wave_01.max.fbx"
+        }
+      }
+    },
+    {
+      "id": "wave_02",
+      "label": "wave 02",
+      "group": "wave",
+      "motions": {
+        "static": {
+          "female": "Assets/Animations/all_animations_max_motextr_static/f_wave_02.max.fbx",
+          "male": "Assets/Animations/all_animations_max_motextr_static/m_wave_02.max.fbx"
+        }
+      }
+    },
+    {
+      "id": "work_mid",
+      "label": "work mid",
+      "group": "work",
+      "motions": {
+        "static": {
+          "female": "Assets/Animations/all_animations_max_motextr_static/f_work_mid.max.fbx",
+          "male": "Assets/Animations/all_animations_max_motextr_static/m_work_mid.max.fbx"
+        }
+      }
+    },
+    {
+      "id": "work_table",
+      "label": "work table",
+      "group": "work",
+      "motions": {
+        "static": {
+          "female": "Assets/Animations/all_animations_max_motextr_static/f_work_table.max.fbx",
+          "male": "Assets/Animations/all_animations_max_motextr_static/m_work_table.max.fbx"
+        }
+      }
+    }
+  ]
+}
